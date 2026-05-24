@@ -58,12 +58,12 @@ loyalty tier changes across time.
 I generated the data myself using Python to simulate a realistic retail 
 environment. Everything flows through three layers.
 
-Staging layer — raw source data exactly as it would arrive from 
+Staging layer  raw source data exactly as it would arrive from 
 source systems, no cleaning done here
 
-Dimension tables — cleaned, transformed, with surrogate keys assigned
+Dimension tables cleaned, transformed, with surrogate keys assigned
 
-Fact table — 80,000 rows, one per line item, connected to all 
+Fact table 80,000 rows, one per line item, connected to all 
 five dimensions via foreign keys
 
 | Table | Layer | Rows |

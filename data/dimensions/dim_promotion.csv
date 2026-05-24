@@ -1,0 +1,9 @@
+promotion_key,promotion_name,promotion_type,discount_pct,is_active_promo,channel
+1,Diwali Sale,Festival,40,1,All
+2,Republic Day,National Holiday,25,1,Online
+3,End of Season,Clearance,50,1,All
+4,Weekend Special,Regular,15,1,Online
+5,New Year Sale,Festival,30,1,Online
+6,Flash Sale,Flash,60,1,All
+7,Member Exclusive,Loyalty,20,1,In-Store
+8,No Promotion,None,0,0,In-Store

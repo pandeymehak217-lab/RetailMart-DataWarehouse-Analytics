@@ -1,0 +1,101 @@
+store_key,store_id,store_name,store_format,city,state,store_tier,area_sqft,opening_year,staff_count,monthly_rent_lakh,has_parking,is_active,region
+1,1,RetailMart Pune Supermarket,Supermarket,Pune,Maharashtra,Tier 2,43160,2008,90,1.56,1,1,West
+2,2,RetailMart Surat Online,Online,Surat,Gujarat,Tier 1,22419,2016,74,19.18,1,1,West
+3,3,RetailMart Pune Express,Express,Pune,Maharashtra,Tier 1,40517,2017,83,4.62,1,1,West
+4,4,RetailMart Warangal Hypermarket,Hypermarket,Warangal,Telangana,Tier 1,8881,2019,21,12.36,0,1,South
+5,5,RetailMart Noida Online,Online,Noida,Delhi,Tier 1,22066,2005,190,16.65,0,1,North
+6,6,RetailMart Jaipur Hypermarket,Hypermarket,Jaipur,Rajasthan,Tier 2,19442,2006,18,5.42,1,1,West
+7,7,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 1,24278,2015,108,13.8,0,1,West
+8,8,RetailMart Bengaluru Hypermarket,Hypermarket,Bengaluru,Karnataka,Tier 3,43923,2017,185,11.88,1,0,South
+9,9,RetailMart Thiruvananthapuram Hypermarket,Hypermarket,Thiruvananthapuram,Kerala,Tier 1,26354,2006,141,5.94,0,1,South
+10,10,RetailMart Gurgaon Express,Express,Gurgaon,Delhi,Tier 2,23476,2020,19,9.71,1,1,North
+11,11,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 3,22662,2006,179,4.06,1,1,West
+12,12,RetailMart Nagpur Supermarket,Supermarket,Nagpur,Maharashtra,Tier 3,16666,2008,59,16.07,0,1,West
+13,13,RetailMart Ahmedabad Supermarket,Supermarket,Ahmedabad,Gujarat,Tier 2,44396,2011,81,12.3,0,1,West
+14,14,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,47384,2013,17,12.47,1,1,West
+15,15,RetailMart Madurai Hypermarket,Hypermarket,Madurai,Tamil Nadu,Tier 1,6381,2009,104,1.02,0,1,South
+16,16,RetailMart New Delhi Express,Express,New Delhi,Delhi,Tier 2,35628,2017,138,13.31,0,1,North
+17,17,RetailMart Kochi Express,Express,Kochi,Kerala,Tier 3,46975,2011,19,19.18,0,1,South
+18,18,RetailMart Jodhpur Supermarket,Supermarket,Jodhpur,Rajasthan,Tier 2,30094,2016,37,9.64,0,1,West
+19,19,RetailMart Madurai Online,Online,Madurai,Tamil Nadu,Tier 2,23172,2014,16,17.62,0,1,South
+20,20,RetailMart Mumbai Hypermarket,Hypermarket,Mumbai,Maharashtra,Tier 3,48023,2016,11,7.33,1,1,West
+21,21,RetailMart Hyderabad Express,Express,Hyderabad,Telangana,Tier 1,15897,2005,70,13.74,1,0,South
+22,22,RetailMart Ahmedabad Hypermarket,Hypermarket,Ahmedabad,Gujarat,Tier 3,29691,2008,56,15.5,0,1,West
+23,23,RetailMart Karimnagar Express,Express,Karimnagar,Telangana,Tier 2,30640,2014,84,19.35,0,1,South
+24,24,RetailMart Surat Online,Online,Surat,Gujarat,Tier 1,33966,2005,36,7.94,1,1,West
+25,25,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 2,37642,2005,190,17.42,0,1,South
+26,26,RetailMart Kozhikode Hypermarket,Hypermarket,Kozhikode,Kerala,Tier 3,18907,2005,167,9.26,0,1,South
+27,27,RetailMart Warangal Online,Online,Warangal,Telangana,Tier 3,2893,2015,185,19.2,0,1,South
+28,28,RetailMart Madurai Hypermarket,Hypermarket,Madurai,Tamil Nadu,Tier 1,46517,2009,198,10.26,0,1,South
+29,29,RetailMart Jaipur Online,Online,Jaipur,Rajasthan,Tier 2,41471,2016,131,5.29,0,1,West
+30,30,RetailMart Coimbatore Supermarket,Supermarket,Coimbatore,Tamil Nadu,Tier 1,14458,2007,125,19.72,0,1,South
+31,31,RetailMart Warangal Express,Express,Warangal,Telangana,Tier 2,41957,2020,49,8.65,0,1,South
+32,32,RetailMart Noida Hypermarket,Hypermarket,Noida,Delhi,Tier 3,33045,2018,100,18.79,0,1,North
+33,33,RetailMart Nagpur Online,Online,Nagpur,Maharashtra,Tier 3,25789,2012,40,0.51,1,1,West
+34,34,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,34691,2019,189,9.86,0,1,West
+35,35,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 2,47753,2009,186,14.64,0,1,South
+36,36,RetailMart Bengaluru Online,Online,Bengaluru,Karnataka,Tier 2,13139,2011,54,3.24,0,1,South
+37,37,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 1,14802,2020,94,5.74,0,1,West
+38,38,RetailMart Thiruvananthapuram Supermarket,Supermarket,Thiruvananthapuram,Kerala,Tier 3,34370,2010,157,16.15,1,1,South
+39,39,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 2,35220,2015,34,8.08,1,1,West
+40,40,RetailMart Pune Online,Online,Pune,Maharashtra,Tier 2,38283,2020,182,8.75,1,1,West
+41,41,RetailMart New Delhi Supermarket,Supermarket,New Delhi,Delhi,Tier 3,23057,2006,178,4.4,1,1,North
+42,42,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 1,39288,2016,99,5.23,0,1,North
+43,43,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 2,14053,2009,18,1.29,1,1,South
+44,44,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 1,26774,2013,62,3.31,1,1,East
+45,45,RetailMart Noida Supermarket,Supermarket,Noida,Delhi,Tier 1,15832,2009,174,14.09,1,1,North
+46,46,RetailMart Lucknow Supermarket,Supermarket,Lucknow,Uttar Pradesh,Tier 2,19503,2017,83,8.1,0,1,North
+47,47,RetailMart Lucknow Express,Express,Lucknow,Uttar Pradesh,Tier 2,35637,2018,97,1.35,1,1,North
+48,48,RetailMart Kozhikode Hypermarket,Hypermarket,Kozhikode,Kerala,Tier 1,5862,2017,156,8.72,0,1,South
+49,49,RetailMart Pune Supermarket,Supermarket,Pune,Maharashtra,Tier 3,21499,2013,91,5.73,0,1,West
+50,50,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 1,48526,2006,70,5.21,0,1,South
+51,51,RetailMart Jaipur Online,Online,Jaipur,Rajasthan,Tier 1,16302,2005,68,1.85,0,1,West
+52,52,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 2,33211,2009,103,13.27,0,1,West
+53,53,RetailMart Jodhpur Supermarket,Supermarket,Jodhpur,Rajasthan,Tier 1,43726,2018,96,10.92,0,1,West
+54,54,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,5008,2012,75,14.08,1,1,West
+55,55,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 1,17384,2015,191,12.71,0,1,East
+56,56,RetailMart Jodhpur Express,Express,Jodhpur,Rajasthan,Tier 3,47547,2009,67,19.99,0,1,West
+57,57,RetailMart Udaipur Express,Express,Udaipur,Rajasthan,Tier 3,7853,2021,91,10.83,0,1,West
+58,58,RetailMart Jaipur Hypermarket,Hypermarket,Jaipur,Rajasthan,Tier 3,14794,2006,184,17.73,1,1,West
+59,59,RetailMart Lucknow Hypermarket,Hypermarket,Lucknow,Uttar Pradesh,Tier 3,4749,2019,114,16.95,1,1,North
+60,60,RetailMart Kanpur Supermarket,Supermarket,Kanpur,Uttar Pradesh,Tier 2,43144,2018,14,6.94,1,1,North
+61,61,RetailMart Nagpur Hypermarket,Hypermarket,Nagpur,Maharashtra,Tier 1,36807,2010,25,3.04,1,1,West
+62,62,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 2,34030,2012,156,12.67,0,1,East
+63,63,RetailMart Thiruvananthapuram Online,Online,Thiruvananthapuram,Kerala,Tier 2,18358,2012,164,7.94,1,1,South
+64,64,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 2,3642,2010,86,7.09,0,1,South
+65,65,RetailMart Pune Online,Online,Pune,Maharashtra,Tier 1,38856,2016,83,17.83,0,1,West
+66,66,RetailMart Kolkata Hypermarket,Hypermarket,Kolkata,West Bengal,Tier 2,11591,2016,100,3.48,0,1,East
+67,67,RetailMart Kanpur Hypermarket,Hypermarket,Kanpur,Uttar Pradesh,Tier 2,6643,2015,149,5.17,1,1,North
+68,68,RetailMart Ahmedabad Express,Express,Ahmedabad,Gujarat,Tier 1,41039,2006,89,3.07,0,1,West
+69,69,RetailMart Thiruvananthapuram Express,Express,Thiruvananthapuram,Kerala,Tier 1,37540,2015,109,1.69,0,1,South
+70,70,RetailMart Mumbai Supermarket,Supermarket,Mumbai,Maharashtra,Tier 2,18283,2013,157,17.37,0,1,West
+71,71,RetailMart Bengaluru Hypermarket,Hypermarket,Bengaluru,Karnataka,Tier 3,5357,2006,164,5.25,0,1,South
+72,72,RetailMart Kozhikode Supermarket,Supermarket,Kozhikode,Kerala,Tier 2,9152,2018,183,13.86,1,1,South
+73,73,RetailMart Hyderabad Express,Express,Hyderabad,Telangana,Tier 2,42393,2018,189,17.59,1,1,South
+74,74,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 3,20192,2012,144,1.0,1,1,West
+75,75,RetailMart Coimbatore Express,Express,Coimbatore,Tamil Nadu,Tier 1,22909,2005,33,15.95,1,1,South
+76,76,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 3,9277,2005,165,1.73,1,1,West
+77,77,RetailMart Ahmedabad Supermarket,Supermarket,Ahmedabad,Gujarat,Tier 2,12229,2007,141,0.61,0,1,West
+78,78,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 2,31579,2019,73,13.75,0,1,West
+79,79,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 1,9496,2013,60,7.24,0,1,South
+80,80,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 1,7500,2013,135,10.66,0,1,South
+81,81,RetailMart Warangal Hypermarket,Hypermarket,Warangal,Telangana,Tier 3,25735,2006,74,14.81,0,1,South
+82,82,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 2,20983,2013,101,15.96,1,1,West
+83,83,RetailMart Mumbai Supermarket,Supermarket,Mumbai,Maharashtra,Tier 1,1053,2007,118,1.9,1,1,West
+84,84,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 1,11764,2007,111,18.99,1,1,South
+85,85,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 2,17065,2021,117,4.31,1,1,North
+86,86,RetailMart Agra Online,Online,Agra,Uttar Pradesh,Tier 3,25551,2015,197,10.2,0,1,North
+87,87,RetailMart Gurgaon Online,Online,Gurgaon,Delhi,Tier 3,37989,2016,165,18.51,1,1,North
+88,88,RetailMart Surat Hypermarket,Hypermarket,Surat,Gujarat,Tier 3,12148,2013,26,9.22,0,1,West
+89,89,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 3,6678,2007,132,13.26,1,1,South
+90,90,RetailMart Madurai Express,Express,Madurai,Tamil Nadu,Tier 1,29422,2013,89,14.6,1,1,South
+91,91,RetailMart Lucknow Online,Online,Lucknow,Uttar Pradesh,Tier 3,37463,2017,147,16.21,0,1,North
+92,92,RetailMart Udaipur Express,Express,Udaipur,Rajasthan,Tier 2,40051,2017,89,1.76,0,1,West
+93,93,RetailMart Chennai Online,Online,Chennai,Tamil Nadu,Tier 3,35768,2010,101,9.73,1,0,South
+94,94,RetailMart Chennai Online,Online,Chennai,Tamil Nadu,Tier 3,2600,2011,166,11.86,1,1,South
+95,95,RetailMart Mysuru Online,Online,Mysuru,Karnataka,Tier 1,44610,2018,183,12.61,1,1,South
+96,96,RetailMart Lucknow Hypermarket,Hypermarket,Lucknow,Uttar Pradesh,Tier 2,29206,2006,197,9.39,0,1,North
+97,97,RetailMart Kochi Hypermarket,Hypermarket,Kochi,Kerala,Tier 3,7263,2009,16,15.03,0,1,South
+98,98,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 2,20510,2020,63,4.82,1,1,North
+99,99,RetailMart Pune Hypermarket,Hypermarket,Pune,Maharashtra,Tier 1,21941,2011,22,0.6,0,1,West
+100,100,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 2,6920,2005,131,3.22,0,1,West

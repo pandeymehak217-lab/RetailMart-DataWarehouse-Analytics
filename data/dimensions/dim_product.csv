@@ -1,0 +1,1001 @@
+product_key,product_id,product_name,category,subcategory,brand,mrp,standard_cost,standard_margin_pct,price_band,is_perishable,is_active,launch_year
+1,1,Makeup Model 225,Beauty,Makeup,Brand23,2745.0,1640.0,40.26,Mid-Range,0,1,2018
+2,2,Fragrances Model 479,Beauty,Fragrances,Brand27,795.0,344.0,56.73,Mid-Range,0,1,2020
+3,3,Snacks Model 600,Grocery,Snacks,Brand31,135.0,83.0,38.52,Budget,1,1,2016
+4,4,Appliances Model 364,Home & Kitchen,Appliances,Brand33,31773.0,15417.0,51.48,Luxury,0,1,2015
+5,5,Laptops Model 817,Electronics,Laptops,Brand25,21944.0,9464.0,56.87,Premium,0,1,2019
+6,6,Bedding Model 602,Home & Kitchen,Bedding,Brand37,33777.0,20546.0,39.17,Luxury,0,1,2020
+7,7,Men Clothing Model 324,Fashion,Men Clothing,Brand16,2115.0,1334.0,36.93,Mid-Range,0,1,2018
+8,8,Appliances Model 315,Home & Kitchen,Appliances,Brand10,17823.0,7976.0,55.25,Premium,0,1,2022
+9,9,Staples Model 247,Grocery,Staples,Brand07,1675.0,961.0,42.63,Mid-Range,1,1,2017
+10,10,Footwear Model 924,Fashion,Footwear,Brand06,12246.0,6109.0,50.11,Premium,0,1,2015
+11,11,Football Model 682,Sports,Football,Brand09,26680.0,14250.0,46.59,Luxury,0,1,2021
+12,12,Outdoor Model 270,Sports,Outdoor,Brand27,1164.0,595.0,48.88,Mid-Range,0,1,2019
+13,13,Tablets Model 733,Electronics,Tablets,Brand29,3524.0,2282.0,35.24,Mid-Range,0,1,2015
+14,14,Men Clothing Model 116,Fashion,Men Clothing,Brand36,11593.0,6641.0,42.72,Premium,0,1,2018
+15,15,Men Clothing Model 599,Fashion,Men Clothing,Brand14,13825.0,7737.0,44.04,Premium,0,1,2018
+16,16,Beverages Model 186,Grocery,Beverages,Brand40,1422.0,569.0,59.99,Mid-Range,1,1,2018
+17,17,Dairy Model 327,Grocery,Dairy,Brand20,402.0,204.0,49.25,Budget,1,1,2018
+18,18,Men Clothing Model 754,Fashion,Men Clothing,Brand21,14301.0,7470.0,47.77,Premium,0,1,2020
+19,19,Dairy Model 773,Grocery,Dairy,Brand06,1506.0,926.0,38.51,Mid-Range,1,1,2019
+20,20,Footwear Model 297,Fashion,Footwear,Brand45,7862.0,4765.0,39.39,Premium,0,1,2022
+21,21,Dairy Model 591,Grocery,Dairy,Brand29,211.0,128.0,39.34,Budget,1,1,2015
+22,22,Footwear Model 281,Fashion,Footwear,Brand48,7656.0,3486.0,54.47,Premium,0,1,2017
+23,23,Accessories Model 966,Fashion,Accessories,Brand28,14353.0,9256.0,35.51,Premium,0,1,2020
+24,24,Makeup Model 117,Beauty,Makeup,Brand17,2301.0,1272.0,44.72,Mid-Range,0,1,2018
+25,25,Bedding Model 506,Home & Kitchen,Bedding,Brand31,1695.0,1087.0,35.87,Mid-Range,0,1,2022
+26,26,Staples Model 438,Grocery,Staples,Brand32,1674.0,878.0,47.55,Mid-Range,1,1,2020
+27,27,Haircare Model 882,Beauty,Haircare,Brand35,4411.0,2296.0,47.95,Mid-Range,0,1,2020
+28,28,Haircare Model 297,Beauty,Haircare,Brand26,2501.0,1569.0,37.27,Mid-Range,0,0,2019
+29,29,Appliances Model 962,Home & Kitchen,Appliances,Brand27,21395.0,11212.0,47.6,Premium,0,1,2022
+30,30,Cookware Model 440,Home & Kitchen,Cookware,Brand06,1313.0,753.0,42.65,Mid-Range,0,1,2017
+31,31,Fitness Equipment Model 425,Sports,Fitness Equipment,Brand21,12462.0,7743.0,37.87,Premium,0,1,2019
+32,32,Men Clothing Model 350,Fashion,Men Clothing,Brand36,2234.0,1422.0,36.35,Mid-Range,0,1,2018
+33,33,Fitness Equipment Model 914,Sports,Fitness Equipment,Brand15,4897.0,3042.0,37.88,Mid-Range,0,1,2016
+34,34,Staples Model 568,Grocery,Staples,Brand42,1287.0,583.0,54.7,Mid-Range,1,1,2022
+35,35,Cricket Model 223,Sports,Cricket,Brand19,12166.0,5921.0,51.33,Premium,0,1,2019
+36,36,Footwear Model 890,Fashion,Footwear,Brand10,2207.0,970.0,56.05,Mid-Range,0,1,2022
+37,37,Outdoor Model 773,Sports,Outdoor,Brand14,9282.0,5646.0,39.17,Premium,0,1,2020
+38,38,Furniture Model 528,Home & Kitchen,Furniture,Brand27,11777.0,7124.0,39.51,Premium,0,1,2019
+39,39,Smart TV Model 465,Electronics,Smart TV,Brand06,35128.0,17734.0,49.52,Luxury,0,0,2022
+40,40,Tablets Model 415,Electronics,Tablets,Brand40,37761.0,21494.0,43.08,Luxury,0,1,2022
+41,41,Headphones Model 758,Electronics,Headphones,Brand29,118393.0,72037.0,39.15,Luxury,0,1,2019
+42,42,Makeup Model 520,Beauty,Makeup,Brand31,2150.0,1133.0,47.3,Mid-Range,0,1,2022
+43,43,Mobile Phones Model 720,Electronics,Mobile Phones,Brand11,78955.0,49720.0,37.03,Luxury,0,1,2018
+44,44,Football Model 663,Sports,Football,Brand12,29799.0,15686.0,47.36,Luxury,0,1,2017
+45,45,Bedding Model 815,Home & Kitchen,Bedding,Brand05,38637.0,16410.0,57.53,Luxury,0,1,2020
+46,46,Haircare Model 952,Beauty,Haircare,Brand32,3846.0,1667.0,56.66,Mid-Range,0,0,2015
+47,47,Outdoor Model 525,Sports,Outdoor,Brand44,9219.0,5291.0,42.61,Premium,0,1,2018
+48,48,Appliances Model 366,Home & Kitchen,Appliances,Brand03,45214.0,21839.0,51.7,Luxury,0,1,2015
+49,49,Cricket Model 860,Sports,Cricket,Brand43,5915.0,3263.0,44.84,Premium,0,1,2022
+50,50,Women Clothing Model 491,Fashion,Women Clothing,Brand45,7335.0,3247.0,55.73,Premium,0,1,2017
+51,51,Cookware Model 752,Home & Kitchen,Cookware,Brand50,29004.0,12084.0,58.34,Luxury,0,1,2020
+52,52,Fragrances Model 346,Beauty,Fragrances,Brand49,4826.0,1932.0,59.97,Mid-Range,0,1,2021
+53,53,Headphones Model 769,Electronics,Headphones,Brand33,1894.0,905.0,52.22,Mid-Range,0,1,2017
+54,54,Tablets Model 906,Electronics,Tablets,Brand08,18265.0,11160.0,38.9,Premium,0,1,2022
+55,55,Skincare Model 633,Beauty,Skincare,Brand29,2433.0,990.0,59.31,Mid-Range,0,1,2020
+56,56,Cookware Model 869,Home & Kitchen,Cookware,Brand35,43272.0,22263.0,48.55,Luxury,0,0,2019
+57,57,Fitness Equipment Model 493,Sports,Fitness Equipment,Brand19,28581.0,14640.0,48.78,Luxury,0,1,2021
+58,58,Cookware Model 477,Home & Kitchen,Cookware,Brand40,32408.0,19008.0,41.35,Luxury,0,0,2018
+59,59,Furniture Model 513,Home & Kitchen,Furniture,Brand29,19808.0,8269.0,58.25,Premium,0,1,2020
+60,60,Dairy Model 705,Grocery,Dairy,Brand42,792.0,433.0,45.33,Mid-Range,1,1,2016
+61,61,Staples Model 421,Grocery,Staples,Brand22,576.0,312.0,45.83,Mid-Range,1,1,2019
+62,62,Haircare Model 344,Beauty,Haircare,Brand39,213.0,102.0,52.11,Budget,0,1,2022
+63,63,Football Model 809,Sports,Football,Brand39,25386.0,16114.0,36.52,Luxury,0,1,2017
+64,64,Bedding Model 150,Home & Kitchen,Bedding,Brand09,46965.0,22718.0,51.63,Luxury,0,1,2017
+65,65,Women Clothing Model 983,Fashion,Women Clothing,Brand50,6393.0,3242.0,49.29,Premium,0,1,2015
+66,66,Haircare Model 628,Beauty,Haircare,Brand03,4850.0,2605.0,46.29,Mid-Range,0,1,2015
+67,67,Men Clothing Model 212,Fashion,Men Clothing,Brand46,12237.0,7757.0,36.61,Premium,0,1,2019
+68,68,Accessories Model 120,Fashion,Accessories,Brand14,264.0,167.0,36.74,Budget,0,1,2018
+69,69,Footwear Model 501,Fashion,Footwear,Brand22,10116.0,5578.0,44.86,Premium,0,1,2018
+70,70,Staples Model 569,Grocery,Staples,Brand23,383.0,180.0,53.0,Budget,1,1,2019
+71,71,Bedding Model 330,Home & Kitchen,Bedding,Brand24,36851.0,16663.0,54.78,Luxury,0,1,2018
+72,72,Bedding Model 271,Home & Kitchen,Bedding,Brand06,20376.0,9109.0,55.3,Premium,0,1,2019
+73,73,Women Clothing Model 923,Fashion,Women Clothing,Brand14,489.0,249.0,49.08,Budget,0,1,2018
+74,74,Snacks Model 393,Grocery,Snacks,Brand02,1996.0,845.0,57.67,Mid-Range,1,1,2020
+75,75,Men Clothing Model 516,Fashion,Men Clothing,Brand46,2422.0,1529.0,36.87,Mid-Range,0,1,2020
+76,76,Cookware Model 803,Home & Kitchen,Cookware,Brand23,27875.0,12220.0,56.16,Luxury,0,1,2018
+77,77,Makeup Model 159,Beauty,Makeup,Brand15,824.0,535.0,35.07,Mid-Range,0,1,2022
+78,78,Bedding Model 756,Home & Kitchen,Bedding,Brand10,44496.0,21936.0,50.7,Luxury,0,1,2015
+79,79,Skincare Model 174,Beauty,Skincare,Brand01,1414.0,779.0,44.91,Mid-Range,0,1,2015
+80,80,Laptops Model 237,Electronics,Laptops,Brand23,6953.0,3339.0,51.98,Premium,0,1,2017
+81,81,Smart TV Model 743,Electronics,Smart TV,Brand13,27153.0,11409.0,57.98,Luxury,0,0,2021
+82,82,Appliances Model 431,Home & Kitchen,Appliances,Brand28,27738.0,13190.0,52.45,Luxury,0,1,2020
+83,83,Football Model 694,Sports,Football,Brand41,15276.0,7060.0,53.78,Premium,0,1,2021
+84,84,Beverages Model 315,Grocery,Beverages,Brand30,1240.0,746.0,39.84,Mid-Range,1,1,2018
+85,85,Staples Model 233,Grocery,Staples,Brand18,651.0,357.0,45.16,Mid-Range,1,1,2016
+86,86,Women Clothing Model 885,Fashion,Women Clothing,Brand46,3159.0,1346.0,57.39,Mid-Range,0,1,2017
+87,87,Furniture Model 227,Home & Kitchen,Furniture,Brand15,43584.0,23218.0,46.73,Luxury,0,1,2021
+88,88,Staples Model 982,Grocery,Staples,Brand29,1597.0,869.0,45.59,Mid-Range,1,0,2019
+89,89,Beverages Model 615,Grocery,Beverages,Brand50,54.0,26.0,51.85,Budget,1,1,2019
+90,90,Haircare Model 882,Beauty,Haircare,Brand44,683.0,305.0,55.34,Mid-Range,0,1,2020
+91,91,Staples Model 832,Grocery,Staples,Brand41,558.0,297.0,46.77,Mid-Range,1,1,2017
+92,92,Football Model 630,Sports,Football,Brand14,22364.0,9430.0,57.83,Premium,0,1,2021
+93,93,Makeup Model 313,Beauty,Makeup,Brand02,1565.0,740.0,52.72,Mid-Range,0,1,2016
+94,94,Men Clothing Model 194,Fashion,Men Clothing,Brand30,6729.0,3108.0,53.81,Premium,0,1,2018
+95,95,Dairy Model 887,Grocery,Dairy,Brand43,1648.0,781.0,52.61,Mid-Range,1,1,2016
+96,96,Cricket Model 152,Sports,Cricket,Brand41,2476.0,1281.0,48.26,Mid-Range,0,1,2017
+97,97,Football Model 674,Sports,Football,Brand02,23638.0,14688.0,37.86,Premium,0,1,2021
+98,98,Appliances Model 717,Home & Kitchen,Appliances,Brand41,31424.0,17751.0,43.51,Luxury,0,1,2016
+99,99,Women Clothing Model 932,Fashion,Women Clothing,Brand48,7624.0,4536.0,40.5,Premium,0,1,2022
+100,100,Makeup Model 381,Beauty,Makeup,Brand30,4173.0,1765.0,57.7,Mid-Range,0,1,2022
+101,101,Fragrances Model 430,Beauty,Fragrances,Brand45,2526.0,1226.0,51.46,Mid-Range,0,1,2016
+102,102,Skincare Model 677,Beauty,Skincare,Brand30,918.0,470.0,48.8,Mid-Range,0,1,2015
+103,103,Makeup Model 548,Beauty,Makeup,Brand22,3416.0,2093.0,38.73,Mid-Range,0,1,2015
+104,104,Tablets Model 550,Electronics,Tablets,Brand36,33484.0,21165.0,36.79,Luxury,0,1,2018
+105,105,Appliances Model 389,Home & Kitchen,Appliances,Brand49,15581.0,9785.0,37.2,Premium,0,1,2019
+106,106,Smart TV Model 808,Electronics,Smart TV,Brand11,85867.0,47138.0,45.1,Luxury,0,1,2018
+107,107,Accessories Model 602,Fashion,Accessories,Brand48,9444.0,5605.0,40.65,Premium,0,1,2016
+108,108,Smart TV Model 234,Electronics,Smart TV,Brand35,76282.0,37013.0,51.48,Luxury,0,1,2015
+109,109,Accessories Model 911,Fashion,Accessories,Brand20,13957.0,8315.0,40.42,Premium,0,1,2021
+110,110,Staples Model 473,Grocery,Staples,Brand36,1549.0,692.0,55.33,Mid-Range,1,1,2020
+111,111,Makeup Model 853,Beauty,Makeup,Brand05,2676.0,1736.0,35.13,Mid-Range,0,1,2015
+112,112,Football Model 875,Sports,Football,Brand43,8368.0,4883.0,41.65,Premium,0,1,2016
+113,113,Snacks Model 310,Grocery,Snacks,Brand18,1818.0,790.0,56.55,Mid-Range,1,1,2016
+114,114,Outdoor Model 671,Sports,Outdoor,Brand36,29901.0,15872.0,46.92,Luxury,0,1,2017
+115,115,Furniture Model 242,Home & Kitchen,Furniture,Brand02,34407.0,19418.0,43.56,Luxury,0,1,2017
+116,116,Outdoor Model 556,Sports,Outdoor,Brand30,8222.0,4668.0,43.23,Premium,0,1,2017
+117,117,Accessories Model 969,Fashion,Accessories,Brand44,2316.0,936.0,59.59,Mid-Range,0,1,2018
+118,118,Makeup Model 569,Beauty,Makeup,Brand02,3506.0,1606.0,54.19,Mid-Range,0,1,2015
+119,119,Men Clothing Model 759,Fashion,Men Clothing,Brand43,8664.0,5285.0,39.0,Premium,0,1,2021
+120,120,Football Model 183,Sports,Football,Brand41,28408.0,14215.0,49.96,Luxury,0,1,2018
+121,121,Mobile Phones Model 534,Electronics,Mobile Phones,Brand02,13343.0,7666.0,42.55,Premium,0,1,2018
+122,122,Mobile Phones Model 323,Electronics,Mobile Phones,Brand46,58987.0,34905.0,40.83,Luxury,0,0,2017
+123,123,Dairy Model 188,Grocery,Dairy,Brand36,2000.0,1099.0,45.05,Mid-Range,1,0,2017
+124,124,Makeup Model 412,Beauty,Makeup,Brand35,4648.0,2238.0,51.85,Mid-Range,0,1,2020
+125,125,Makeup Model 814,Beauty,Makeup,Brand16,4928.0,2732.0,44.56,Mid-Range,0,1,2020
+126,126,Men Clothing Model 471,Fashion,Men Clothing,Brand49,12712.0,6483.0,49.0,Premium,0,1,2019
+127,127,Men Clothing Model 988,Fashion,Men Clothing,Brand35,5881.0,2851.0,51.52,Premium,0,1,2020
+128,128,Smart TV Model 946,Electronics,Smart TV,Brand17,119992.0,68195.0,43.17,Luxury,0,1,2015
+129,129,Fitness Equipment Model 313,Sports,Fitness Equipment,Brand48,22591.0,10251.0,54.62,Premium,0,0,2018
+130,130,Smart TV Model 652,Electronics,Smart TV,Brand12,109891.0,66857.0,39.16,Luxury,0,1,2016
+131,131,Snacks Model 317,Grocery,Snacks,Brand43,1325.0,794.0,40.08,Mid-Range,1,1,2015
+132,132,Men Clothing Model 315,Fashion,Men Clothing,Brand33,3487.0,1642.0,52.91,Mid-Range,0,1,2017
+133,133,Women Clothing Model 455,Fashion,Women Clothing,Brand07,1129.0,606.0,46.32,Mid-Range,0,1,2015
+134,134,Footwear Model 117,Fashion,Footwear,Brand19,1320.0,618.0,53.18,Mid-Range,0,1,2017
+135,135,Tablets Model 185,Electronics,Tablets,Brand25,4429.0,2052.0,53.67,Mid-Range,0,1,2018
+136,136,Tablets Model 176,Electronics,Tablets,Brand03,68976.0,42807.0,37.94,Luxury,0,1,2019
+137,137,Skincare Model 529,Beauty,Skincare,Brand36,3703.0,2209.0,40.35,Mid-Range,0,1,2017
+138,138,Appliances Model 259,Home & Kitchen,Appliances,Brand12,30869.0,14288.0,53.71,Luxury,0,1,2017
+139,139,Women Clothing Model 945,Fashion,Women Clothing,Brand45,12343.0,7792.0,36.87,Premium,0,1,2017
+140,140,Snacks Model 758,Grocery,Snacks,Brand22,1601.0,934.0,41.66,Mid-Range,1,1,2022
+141,141,Skincare Model 757,Beauty,Skincare,Brand08,4538.0,2163.0,52.34,Mid-Range,0,1,2016
+142,142,Makeup Model 170,Beauty,Makeup,Brand28,2133.0,931.0,56.35,Mid-Range,0,1,2021
+143,143,Skincare Model 427,Beauty,Skincare,Brand25,1727.0,1120.0,35.15,Mid-Range,0,1,2022
+144,144,Women Clothing Model 873,Fashion,Women Clothing,Brand34,13247.0,7602.0,42.61,Premium,0,1,2015
+145,145,Fitness Equipment Model 440,Sports,Fitness Equipment,Brand41,25980.0,11522.0,55.65,Luxury,0,1,2018
+146,146,Cookware Model 764,Home & Kitchen,Cookware,Brand39,22434.0,13522.0,39.73,Premium,0,1,2022
+147,147,Bedding Model 957,Home & Kitchen,Bedding,Brand39,32277.0,19223.0,40.44,Luxury,0,1,2017
+148,148,Bedding Model 528,Home & Kitchen,Bedding,Brand38,11541.0,4892.0,57.61,Premium,0,1,2017
+149,149,Skincare Model 641,Beauty,Skincare,Brand22,3036.0,1675.0,44.83,Mid-Range,0,1,2019
+150,150,Fitness Equipment Model 532,Sports,Fitness Equipment,Brand39,8578.0,3823.0,55.43,Premium,0,1,2015
+151,151,Dairy Model 532,Grocery,Dairy,Brand01,420.0,205.0,51.19,Budget,1,1,2018
+152,152,Beverages Model 644,Grocery,Beverages,Brand34,1387.0,655.0,52.78,Mid-Range,1,1,2021
+153,153,Furniture Model 644,Home & Kitchen,Furniture,Brand05,42310.0,20912.0,50.57,Luxury,0,0,2019
+154,154,Men Clothing Model 650,Fashion,Men Clothing,Brand30,11454.0,7026.0,38.66,Premium,0,1,2021
+155,155,Bedding Model 986,Home & Kitchen,Bedding,Brand13,36710.0,18651.0,49.19,Luxury,0,1,2022
+156,156,Appliances Model 323,Home & Kitchen,Appliances,Brand05,30672.0,12547.0,59.09,Luxury,0,1,2018
+157,157,Men Clothing Model 389,Fashion,Men Clothing,Brand44,6532.0,3342.0,48.84,Premium,0,0,2021
+158,158,Haircare Model 584,Beauty,Haircare,Brand13,4975.0,3105.0,37.59,Mid-Range,0,1,2019
+159,159,Accessories Model 639,Fashion,Accessories,Brand28,14891.0,7897.0,46.97,Premium,0,1,2019
+160,160,Footwear Model 739,Fashion,Footwear,Brand30,5937.0,2737.0,53.9,Premium,0,1,2022
+161,161,Laptops Model 633,Electronics,Laptops,Brand21,5693.0,3020.0,46.95,Premium,0,1,2018
+162,162,Accessories Model 948,Fashion,Accessories,Brand04,341.0,176.0,48.39,Budget,0,1,2015
+163,163,Staples Model 859,Grocery,Staples,Brand08,920.0,425.0,53.8,Mid-Range,1,1,2016
+164,164,Staples Model 311,Grocery,Staples,Brand39,1863.0,957.0,48.63,Mid-Range,1,1,2020
+165,165,Dairy Model 206,Grocery,Dairy,Brand26,589.0,313.0,46.86,Mid-Range,1,1,2021
+166,166,Bedding Model 207,Home & Kitchen,Bedding,Brand01,17827.0,7478.0,58.05,Premium,0,1,2019
+167,167,Staples Model 386,Grocery,Staples,Brand29,84.0,50.0,40.48,Budget,1,1,2016
+168,168,Women Clothing Model 983,Fashion,Women Clothing,Brand48,8510.0,4514.0,46.96,Premium,0,1,2021
+169,169,Bedding Model 309,Home & Kitchen,Bedding,Brand29,45897.0,24072.0,47.55,Luxury,0,1,2018
+170,170,Men Clothing Model 842,Fashion,Men Clothing,Brand04,3080.0,1488.0,51.69,Mid-Range,0,1,2018
+171,171,Snacks Model 914,Grocery,Snacks,Brand42,289.0,170.0,41.18,Budget,1,1,2018
+172,172,Accessories Model 642,Fashion,Accessories,Brand23,8897.0,5675.0,36.21,Premium,0,1,2019
+173,173,Smart TV Model 504,Electronics,Smart TV,Brand20,108278.0,52475.0,51.54,Luxury,0,1,2018
+174,174,Smart TV Model 230,Electronics,Smart TV,Brand43,45609.0,27603.0,39.48,Luxury,0,0,2017
+175,175,Snacks Model 343,Grocery,Snacks,Brand20,590.0,372.0,36.95,Mid-Range,1,1,2018
+176,176,Mobile Phones Model 266,Electronics,Mobile Phones,Brand20,9443.0,4668.0,50.57,Premium,0,1,2019
+177,177,Smart TV Model 976,Electronics,Smart TV,Brand23,9312.0,5048.0,45.79,Premium,0,1,2020
+178,178,Makeup Model 277,Beauty,Makeup,Brand25,2683.0,1490.0,44.47,Mid-Range,0,1,2017
+179,179,Outdoor Model 854,Sports,Outdoor,Brand46,20952.0,9884.0,52.83,Premium,0,1,2020
+180,180,Footwear Model 466,Fashion,Footwear,Brand32,10900.0,5772.0,47.05,Premium,0,1,2018
+181,181,Mobile Phones Model 946,Electronics,Mobile Phones,Brand05,67058.0,31333.0,53.27,Luxury,0,1,2022
+182,182,Smart TV Model 800,Electronics,Smart TV,Brand37,99983.0,55273.0,44.72,Luxury,0,1,2021
+183,183,Fragrances Model 487,Beauty,Fragrances,Brand39,1479.0,840.0,43.2,Mid-Range,0,1,2019
+184,184,Tablets Model 155,Electronics,Tablets,Brand22,52307.0,25022.0,52.16,Luxury,0,1,2017
+185,185,Accessories Model 455,Fashion,Accessories,Brand03,6755.0,3784.0,43.98,Premium,0,0,2018
+186,186,Haircare Model 622,Beauty,Haircare,Brand03,299.0,138.0,53.85,Budget,0,1,2015
+187,187,Dairy Model 255,Grocery,Dairy,Brand35,1519.0,864.0,43.12,Mid-Range,1,1,2019
+188,188,Men Clothing Model 369,Fashion,Men Clothing,Brand29,1516.0,669.0,55.87,Mid-Range,0,1,2016
+189,189,Women Clothing Model 686,Fashion,Women Clothing,Brand30,6926.0,3774.0,45.51,Premium,0,1,2021
+190,190,Mobile Phones Model 363,Electronics,Mobile Phones,Brand23,6047.0,3249.0,46.27,Premium,0,1,2022
+191,191,Tablets Model 920,Electronics,Tablets,Brand12,62501.0,35001.0,44.0,Luxury,0,1,2020
+192,192,Football Model 594,Sports,Football,Brand31,11047.0,6980.0,36.82,Premium,0,1,2015
+193,193,Furniture Model 741,Home & Kitchen,Furniture,Brand38,39699.0,18764.0,52.73,Luxury,0,1,2016
+194,194,Headphones Model 933,Electronics,Headphones,Brand10,42747.0,27601.0,35.43,Luxury,0,1,2019
+195,195,Men Clothing Model 311,Fashion,Men Clothing,Brand23,12927.0,8035.0,37.84,Premium,0,1,2022
+196,196,Footwear Model 810,Fashion,Footwear,Brand47,1458.0,846.0,41.98,Mid-Range,0,1,2018
+197,197,Furniture Model 458,Home & Kitchen,Furniture,Brand29,46331.0,20819.0,55.06,Luxury,0,1,2022
+198,198,Laptops Model 313,Electronics,Laptops,Brand32,97186.0,61697.0,36.52,Luxury,0,1,2021
+199,199,Cookware Model 212,Home & Kitchen,Cookware,Brand30,3503.0,2232.0,36.28,Mid-Range,0,1,2017
+200,200,Dairy Model 332,Grocery,Dairy,Brand47,1505.0,627.0,58.34,Mid-Range,1,1,2016
+201,201,Outdoor Model 306,Sports,Outdoor,Brand38,26544.0,15907.0,40.07,Luxury,0,1,2017
+202,202,Smart TV Model 529,Electronics,Smart TV,Brand27,81686.0,33302.0,59.23,Luxury,0,1,2019
+203,203,Dairy Model 285,Grocery,Dairy,Brand11,907.0,446.0,50.83,Mid-Range,1,1,2022
+204,204,Fitness Equipment Model 306,Sports,Fitness Equipment,Brand04,1828.0,809.0,55.74,Mid-Range,0,1,2021
+205,205,Snacks Model 753,Grocery,Snacks,Brand39,59.0,33.0,44.07,Budget,1,1,2015
+206,206,Furniture Model 212,Home & Kitchen,Furniture,Brand38,25321.0,11516.0,54.52,Luxury,0,1,2018
+207,207,Makeup Model 272,Beauty,Makeup,Brand12,2586.0,1458.0,43.62,Mid-Range,0,1,2018
+208,208,Women Clothing Model 151,Fashion,Women Clothing,Brand37,3788.0,2382.0,37.12,Mid-Range,0,1,2021
+209,209,Appliances Model 290,Home & Kitchen,Appliances,Brand06,23873.0,15405.0,35.47,Premium,0,1,2022
+210,210,Dairy Model 204,Grocery,Dairy,Brand42,873.0,478.0,45.25,Mid-Range,1,1,2019
+211,211,Football Model 184,Sports,Football,Brand12,17352.0,9996.0,42.39,Premium,0,1,2021
+212,212,Outdoor Model 628,Sports,Outdoor,Brand19,10081.0,5994.0,40.54,Premium,0,1,2022
+213,213,Snacks Model 845,Grocery,Snacks,Brand15,1758.0,1036.0,41.07,Mid-Range,1,1,2016
+214,214,Cricket Model 360,Sports,Cricket,Brand32,28263.0,14812.0,47.59,Luxury,0,0,2018
+215,215,Outdoor Model 749,Sports,Outdoor,Brand24,26463.0,17189.0,35.05,Luxury,0,1,2021
+216,216,Accessories Model 873,Fashion,Accessories,Brand02,10061.0,5887.0,41.49,Premium,0,1,2021
+217,217,Staples Model 632,Grocery,Staples,Brand47,207.0,111.0,46.38,Budget,1,1,2016
+218,218,Makeup Model 184,Beauty,Makeup,Brand09,2802.0,1741.0,37.87,Mid-Range,0,1,2021
+219,219,Cricket Model 727,Sports,Cricket,Brand09,1552.0,786.0,49.36,Mid-Range,0,1,2022
+220,220,Footwear Model 676,Fashion,Footwear,Brand33,11696.0,6256.0,46.51,Premium,0,0,2018
+221,221,Furniture Model 785,Home & Kitchen,Furniture,Brand05,7052.0,4148.0,41.18,Premium,0,1,2018
+222,222,Tablets Model 779,Electronics,Tablets,Brand04,36203.0,14763.0,59.22,Luxury,0,1,2019
+223,223,Outdoor Model 995,Sports,Outdoor,Brand10,8677.0,5149.0,40.66,Premium,0,1,2021
+224,224,Tablets Model 287,Electronics,Tablets,Brand25,115136.0,47643.0,58.62,Luxury,0,1,2016
+225,225,Bedding Model 833,Home & Kitchen,Bedding,Brand50,8942.0,3612.0,59.61,Premium,0,1,2022
+226,226,Women Clothing Model 759,Fashion,Women Clothing,Brand15,1629.0,751.0,53.9,Mid-Range,0,1,2018
+227,227,Furniture Model 479,Home & Kitchen,Furniture,Brand32,7764.0,4516.0,41.83,Premium,0,1,2017
+228,228,Appliances Model 794,Home & Kitchen,Appliances,Brand23,9436.0,3970.0,57.93,Premium,0,1,2018
+229,229,Skincare Model 512,Beauty,Skincare,Brand23,4590.0,2528.0,44.92,Mid-Range,0,1,2017
+230,230,Dairy Model 678,Grocery,Dairy,Brand22,836.0,410.0,50.96,Mid-Range,1,1,2015
+231,231,Cookware Model 869,Home & Kitchen,Cookware,Brand14,36903.0,19992.0,45.83,Luxury,0,1,2021
+232,232,Snacks Model 322,Grocery,Snacks,Brand39,1228.0,783.0,36.24,Mid-Range,1,1,2019
+233,233,Fitness Equipment Model 448,Sports,Fitness Equipment,Brand03,12527.0,6975.0,44.32,Premium,0,1,2017
+234,234,Bedding Model 439,Home & Kitchen,Bedding,Brand49,23297.0,12696.0,45.5,Premium,0,1,2020
+235,235,Cricket Model 568,Sports,Cricket,Brand43,2452.0,997.0,59.34,Mid-Range,0,1,2017
+236,236,Football Model 523,Sports,Football,Brand16,22020.0,11325.0,48.57,Premium,0,1,2020
+237,237,Fitness Equipment Model 893,Sports,Fitness Equipment,Brand17,9480.0,5457.0,42.44,Premium,0,1,2022
+238,238,Headphones Model 840,Electronics,Headphones,Brand45,52736.0,25314.0,52.0,Luxury,0,1,2018
+239,239,Appliances Model 253,Home & Kitchen,Appliances,Brand13,18223.0,10604.0,41.81,Premium,0,1,2016
+240,240,Skincare Model 427,Beauty,Skincare,Brand01,532.0,308.0,42.11,Mid-Range,0,1,2022
+241,241,Furniture Model 402,Home & Kitchen,Furniture,Brand04,36928.0,22045.0,40.3,Luxury,0,1,2017
+242,242,Snacks Model 277,Grocery,Snacks,Brand19,840.0,488.0,41.9,Mid-Range,1,1,2020
+243,243,Furniture Model 598,Home & Kitchen,Furniture,Brand29,1196.0,497.0,58.44,Mid-Range,0,1,2018
+244,244,Fragrances Model 560,Beauty,Fragrances,Brand44,1585.0,1029.0,35.08,Mid-Range,0,1,2017
+245,245,Furniture Model 747,Home & Kitchen,Furniture,Brand44,18738.0,10331.0,44.87,Premium,0,1,2015
+246,246,Footwear Model 457,Fashion,Footwear,Brand31,1780.0,881.0,50.51,Mid-Range,0,0,2022
+247,247,Skincare Model 139,Beauty,Skincare,Brand49,1705.0,982.0,42.4,Mid-Range,0,1,2016
+248,248,Accessories Model 818,Fashion,Accessories,Brand03,12290.0,7385.0,39.91,Premium,0,1,2019
+249,249,Staples Model 943,Grocery,Staples,Brand32,474.0,218.0,54.01,Budget,1,1,2022
+250,250,Fitness Equipment Model 408,Sports,Fitness Equipment,Brand44,27769.0,17631.0,36.51,Luxury,0,1,2016
+251,251,Furniture Model 701,Home & Kitchen,Furniture,Brand48,49923.0,29345.0,41.22,Luxury,0,1,2021
+252,252,Tablets Model 148,Electronics,Tablets,Brand04,117023.0,71521.0,38.88,Luxury,0,1,2015
+253,253,Staples Model 461,Grocery,Staples,Brand21,109.0,55.0,49.54,Budget,1,1,2017
+254,254,Snacks Model 996,Grocery,Snacks,Brand16,541.0,231.0,57.3,Mid-Range,1,1,2018
+255,255,Appliances Model 584,Home & Kitchen,Appliances,Brand46,32824.0,15160.0,53.81,Luxury,0,1,2020
+256,256,Dairy Model 924,Grocery,Dairy,Brand39,900.0,501.0,44.33,Mid-Range,1,1,2022
+257,257,Cricket Model 156,Sports,Cricket,Brand49,29094.0,13495.0,53.62,Luxury,0,1,2015
+258,258,Cookware Model 222,Home & Kitchen,Cookware,Brand13,1231.0,659.0,46.47,Mid-Range,0,1,2015
+259,259,Snacks Model 699,Grocery,Snacks,Brand16,1050.0,651.0,38.0,Mid-Range,1,1,2021
+260,260,Men Clothing Model 845,Fashion,Men Clothing,Brand13,6891.0,3331.0,51.66,Premium,0,1,2017
+261,261,Cricket Model 759,Sports,Cricket,Brand01,9929.0,4999.0,49.65,Premium,0,1,2018
+262,262,Laptops Model 758,Electronics,Laptops,Brand01,115116.0,68660.0,40.36,Luxury,0,1,2019
+263,263,Men Clothing Model 891,Fashion,Men Clothing,Brand04,10062.0,5617.0,44.18,Premium,0,1,2022
+264,264,Appliances Model 134,Home & Kitchen,Appliances,Brand39,10167.0,5430.0,46.59,Premium,0,1,2018
+265,265,Women Clothing Model 191,Fashion,Women Clothing,Brand09,1477.0,834.0,43.53,Mid-Range,0,1,2017
+266,266,Tablets Model 780,Electronics,Tablets,Brand01,18933.0,12301.0,35.03,Premium,0,1,2019
+267,267,Football Model 961,Sports,Football,Brand34,18509.0,10137.0,45.23,Premium,0,1,2022
+268,268,Fitness Equipment Model 816,Sports,Fitness Equipment,Brand11,24469.0,14143.0,42.2,Premium,0,1,2020
+269,269,Accessories Model 689,Fashion,Accessories,Brand34,6905.0,3977.0,42.4,Premium,0,1,2017
+270,270,Footwear Model 896,Fashion,Footwear,Brand42,2784.0,1770.0,36.42,Mid-Range,0,1,2017
+271,271,Cricket Model 319,Sports,Cricket,Brand09,21368.0,11986.0,43.91,Premium,0,1,2022
+272,272,Beverages Model 689,Grocery,Beverages,Brand17,559.0,361.0,35.42,Mid-Range,1,1,2018
+273,273,Appliances Model 673,Home & Kitchen,Appliances,Brand14,7604.0,3731.0,50.93,Premium,0,1,2022
+274,274,Women Clothing Model 501,Fashion,Women Clothing,Brand19,13815.0,6514.0,52.85,Premium,0,1,2015
+275,275,Dairy Model 907,Grocery,Dairy,Brand43,684.0,336.0,50.88,Mid-Range,1,1,2021
+276,276,Fragrances Model 525,Beauty,Fragrances,Brand38,4887.0,2851.0,41.66,Mid-Range,0,1,2018
+277,277,Outdoor Model 212,Sports,Outdoor,Brand07,27357.0,15524.0,43.25,Luxury,0,1,2019
+278,278,Dairy Model 744,Grocery,Dairy,Brand13,908.0,538.0,40.75,Mid-Range,1,1,2019
+279,279,Smart TV Model 317,Electronics,Smart TV,Brand24,9549.0,4910.0,48.58,Premium,0,1,2015
+280,280,Fitness Equipment Model 652,Sports,Fitness Equipment,Brand02,29429.0,12473.0,57.62,Luxury,0,1,2017
+281,281,Accessories Model 210,Fashion,Accessories,Brand21,10012.0,5563.0,44.44,Premium,0,1,2015
+282,282,Skincare Model 490,Beauty,Skincare,Brand24,2356.0,1478.0,37.27,Mid-Range,0,1,2017
+283,283,Cookware Model 989,Home & Kitchen,Cookware,Brand23,6775.0,3906.0,42.35,Premium,0,1,2022
+284,284,Cookware Model 907,Home & Kitchen,Cookware,Brand44,12436.0,6901.0,44.51,Premium,0,1,2021
+285,285,Dairy Model 867,Grocery,Dairy,Brand39,315.0,145.0,53.97,Budget,1,1,2020
+286,286,Furniture Model 988,Home & Kitchen,Furniture,Brand43,11702.0,6078.0,48.06,Premium,0,1,2022
+287,287,Beverages Model 308,Grocery,Beverages,Brand20,365.0,157.0,56.99,Budget,1,1,2022
+288,288,Women Clothing Model 972,Fashion,Women Clothing,Brand39,10867.0,6855.0,36.92,Premium,0,1,2020
+289,289,Fragrances Model 278,Beauty,Fragrances,Brand29,3621.0,2174.0,39.96,Mid-Range,0,1,2016
+290,290,Tablets Model 731,Electronics,Tablets,Brand38,46335.0,25623.0,44.7,Luxury,0,1,2015
+291,291,Mobile Phones Model 394,Electronics,Mobile Phones,Brand05,119206.0,73070.0,38.7,Luxury,0,1,2021
+292,292,Footwear Model 762,Fashion,Footwear,Brand43,1762.0,825.0,53.18,Mid-Range,0,1,2018
+293,293,Laptops Model 336,Electronics,Laptops,Brand15,29644.0,12299.0,58.51,Luxury,0,1,2016
+294,294,Smart TV Model 216,Electronics,Smart TV,Brand38,15609.0,9448.0,39.47,Premium,0,1,2020
+295,295,Outdoor Model 545,Sports,Outdoor,Brand36,8614.0,3814.0,55.72,Premium,0,1,2020
+296,296,Fragrances Model 857,Beauty,Fragrances,Brand15,792.0,374.0,52.78,Mid-Range,0,1,2022
+297,297,Skincare Model 186,Beauty,Skincare,Brand28,3341.0,1508.0,54.86,Mid-Range,0,1,2019
+298,298,Cookware Model 697,Home & Kitchen,Cookware,Brand44,12595.0,8015.0,36.36,Premium,0,1,2015
+299,299,Beverages Model 449,Grocery,Beverages,Brand07,1584.0,911.0,42.49,Mid-Range,1,1,2017
+300,300,Cricket Model 782,Sports,Cricket,Brand20,7833.0,4522.0,42.27,Premium,0,1,2018
+301,301,Makeup Model 989,Beauty,Makeup,Brand09,3092.0,1257.0,59.35,Mid-Range,0,1,2017
+302,302,Accessories Model 577,Fashion,Accessories,Brand02,14199.0,6097.0,57.06,Premium,0,1,2016
+303,303,Fitness Equipment Model 894,Sports,Fitness Equipment,Brand09,13858.0,8025.0,42.09,Premium,0,0,2017
+304,304,Accessories Model 359,Fashion,Accessories,Brand11,429.0,198.0,53.85,Budget,0,1,2017
+305,305,Beverages Model 694,Grocery,Beverages,Brand15,60.0,29.0,51.67,Budget,1,1,2019
+306,306,Outdoor Model 258,Sports,Outdoor,Brand25,21291.0,11273.0,47.05,Premium,0,1,2020
+307,307,Headphones Model 763,Electronics,Headphones,Brand04,51895.0,26202.0,49.51,Luxury,0,1,2015
+308,308,Mobile Phones Model 372,Electronics,Mobile Phones,Brand08,85977.0,37154.0,56.79,Luxury,0,1,2017
+309,309,Appliances Model 483,Home & Kitchen,Appliances,Brand18,41455.0,17041.0,58.89,Luxury,0,1,2016
+310,310,Appliances Model 483,Home & Kitchen,Appliances,Brand01,40034.0,25437.0,36.46,Luxury,0,1,2017
+311,311,Bedding Model 602,Home & Kitchen,Bedding,Brand25,25508.0,11019.0,56.8,Luxury,0,1,2021
+312,312,Headphones Model 858,Electronics,Headphones,Brand30,46123.0,23095.0,49.93,Luxury,0,1,2015
+313,313,Furniture Model 327,Home & Kitchen,Furniture,Brand15,46555.0,27629.0,40.65,Luxury,0,1,2017
+314,314,Fitness Equipment Model 476,Sports,Fitness Equipment,Brand05,886.0,450.0,49.21,Mid-Range,0,1,2016
+315,315,Football Model 505,Sports,Football,Brand37,4163.0,2658.0,36.15,Mid-Range,0,1,2015
+316,316,Snacks Model 632,Grocery,Snacks,Brand23,1473.0,639.0,56.62,Mid-Range,1,0,2016
+317,317,Headphones Model 390,Electronics,Headphones,Brand07,91945.0,55003.0,40.18,Luxury,0,1,2021
+318,318,Staples Model 981,Grocery,Staples,Brand30,456.0,229.0,49.78,Budget,1,1,2020
+319,319,Makeup Model 920,Beauty,Makeup,Brand48,2671.0,1522.0,43.02,Mid-Range,0,1,2015
+320,320,Accessories Model 713,Fashion,Accessories,Brand47,14947.0,7915.0,47.05,Premium,0,1,2019
+321,321,Fragrances Model 899,Beauty,Fragrances,Brand13,3671.0,1912.0,47.92,Mid-Range,0,1,2016
+322,322,Cricket Model 584,Sports,Cricket,Brand13,12051.0,5129.0,57.44,Premium,0,1,2019
+323,323,Mobile Phones Model 187,Electronics,Mobile Phones,Brand36,61642.0,35066.0,43.11,Luxury,0,1,2017
+324,324,Fitness Equipment Model 195,Sports,Fitness Equipment,Brand04,2806.0,1246.0,55.6,Mid-Range,0,1,2021
+325,325,Football Model 656,Sports,Football,Brand38,3307.0,1658.0,49.86,Mid-Range,0,1,2019
+326,326,Makeup Model 240,Beauty,Makeup,Brand10,296.0,164.0,44.59,Budget,0,1,2022
+327,327,Dairy Model 545,Grocery,Dairy,Brand41,1394.0,752.0,46.05,Mid-Range,1,1,2018
+328,328,Dairy Model 423,Grocery,Dairy,Brand07,1267.0,665.0,47.51,Mid-Range,1,1,2015
+329,329,Dairy Model 332,Grocery,Dairy,Brand34,192.0,121.0,36.98,Budget,1,1,2020
+330,330,Headphones Model 373,Electronics,Headphones,Brand14,10270.0,6204.0,39.59,Premium,0,1,2019
+331,331,Bedding Model 255,Home & Kitchen,Bedding,Brand30,21193.0,12703.0,40.06,Premium,0,1,2021
+332,332,Haircare Model 440,Beauty,Haircare,Brand10,2728.0,1612.0,40.91,Mid-Range,0,1,2018
+333,333,Cricket Model 452,Sports,Cricket,Brand18,22065.0,13330.0,39.59,Premium,0,1,2021
+334,334,Outdoor Model 391,Sports,Outdoor,Brand42,4968.0,2301.0,53.68,Mid-Range,0,1,2015
+335,335,Bedding Model 814,Home & Kitchen,Bedding,Brand23,30798.0,19218.0,37.6,Luxury,0,1,2019
+336,336,Cookware Model 886,Home & Kitchen,Cookware,Brand30,8383.0,4913.0,41.39,Premium,0,1,2015
+337,337,Smart TV Model 520,Electronics,Smart TV,Brand06,112760.0,50237.0,55.45,Luxury,0,1,2021
+338,338,Tablets Model 442,Electronics,Tablets,Brand11,68375.0,29441.0,56.94,Luxury,0,1,2016
+339,339,Smart TV Model 557,Electronics,Smart TV,Brand34,85073.0,36570.0,57.01,Luxury,0,1,2022
+340,340,Cookware Model 417,Home & Kitchen,Cookware,Brand07,40839.0,19931.0,51.2,Luxury,0,1,2020
+341,341,Beverages Model 575,Grocery,Beverages,Brand31,175.0,107.0,38.86,Budget,1,1,2021
+342,342,Smart TV Model 611,Electronics,Smart TV,Brand38,75335.0,44137.0,41.41,Luxury,0,1,2021
+343,343,Cookware Model 935,Home & Kitchen,Cookware,Brand15,14025.0,7432.0,47.01,Premium,0,1,2020
+344,344,Outdoor Model 295,Sports,Outdoor,Brand16,1471.0,804.0,45.34,Mid-Range,0,0,2017
+345,345,Tablets Model 786,Electronics,Tablets,Brand46,79004.0,40592.0,48.62,Luxury,0,1,2021
+346,346,Football Model 671,Sports,Football,Brand02,25234.0,15759.0,37.55,Luxury,0,1,2018
+347,347,Fitness Equipment Model 186,Sports,Fitness Equipment,Brand46,17297.0,9894.0,42.8,Premium,0,1,2017
+348,348,Staples Model 434,Grocery,Staples,Brand03,1253.0,527.0,57.94,Mid-Range,1,1,2015
+349,349,Outdoor Model 695,Sports,Outdoor,Brand42,24611.0,15329.0,37.71,Premium,0,1,2020
+350,350,Women Clothing Model 640,Fashion,Women Clothing,Brand40,6924.0,3966.0,42.72,Premium,0,1,2015
+351,351,Accessories Model 404,Fashion,Accessories,Brand45,3462.0,1613.0,53.41,Mid-Range,0,1,2016
+352,352,Football Model 177,Sports,Football,Brand31,3479.0,2173.0,37.54,Mid-Range,0,1,2018
+353,353,Fitness Equipment Model 452,Sports,Fitness Equipment,Brand42,20584.0,13108.0,36.32,Premium,0,1,2015
+354,354,Dairy Model 311,Grocery,Dairy,Brand38,465.0,280.0,39.78,Budget,1,1,2017
+355,355,Bedding Model 945,Home & Kitchen,Bedding,Brand25,17368.0,7641.0,56.01,Premium,0,1,2019
+356,356,Skincare Model 225,Beauty,Skincare,Brand44,523.0,296.0,43.4,Mid-Range,0,1,2018
+357,357,Football Model 942,Sports,Football,Brand45,16992.0,8004.0,52.9,Premium,0,1,2022
+358,358,Cricket Model 824,Sports,Cricket,Brand43,17515.0,7195.0,58.92,Premium,0,1,2021
+359,359,Mobile Phones Model 151,Electronics,Mobile Phones,Brand47,61755.0,25796.0,58.23,Luxury,0,1,2022
+360,360,Outdoor Model 161,Sports,Outdoor,Brand22,29613.0,14135.0,52.27,Luxury,0,1,2022
+361,361,Smart TV Model 678,Electronics,Smart TV,Brand04,32191.0,15239.0,52.66,Luxury,0,1,2016
+362,362,Mobile Phones Model 142,Electronics,Mobile Phones,Brand09,97683.0,45800.0,53.11,Luxury,0,1,2021
+363,363,Outdoor Model 701,Sports,Outdoor,Brand34,11512.0,6842.0,40.57,Premium,0,1,2017
+364,364,Fitness Equipment Model 588,Sports,Fitness Equipment,Brand24,27136.0,13213.0,51.31,Luxury,0,1,2017
+365,365,Women Clothing Model 166,Fashion,Women Clothing,Brand17,3880.0,2436.0,37.22,Mid-Range,0,1,2015
+366,366,Beverages Model 401,Grocery,Beverages,Brand30,978.0,578.0,40.9,Mid-Range,1,1,2018
+367,367,Headphones Model 351,Electronics,Headphones,Brand50,77429.0,44964.0,41.93,Luxury,0,1,2021
+368,368,Smart TV Model 882,Electronics,Smart TV,Brand25,91321.0,44177.0,51.62,Luxury,0,1,2020
+369,369,Beverages Model 119,Grocery,Beverages,Brand01,1398.0,621.0,55.58,Mid-Range,1,1,2022
+370,370,Tablets Model 822,Electronics,Tablets,Brand46,58549.0,32307.0,44.82,Luxury,0,1,2016
+371,371,Staples Model 121,Grocery,Staples,Brand16,1428.0,898.0,37.11,Mid-Range,1,1,2021
+372,372,Women Clothing Model 839,Fashion,Women Clothing,Brand19,7002.0,3221.0,54.0,Premium,0,1,2015
+373,373,Accessories Model 374,Fashion,Accessories,Brand39,6192.0,2670.0,56.88,Premium,0,1,2019
+374,374,Furniture Model 809,Home & Kitchen,Furniture,Brand20,20919.0,9374.0,55.19,Premium,0,1,2021
+375,375,Makeup Model 934,Beauty,Makeup,Brand05,2308.0,965.0,58.19,Mid-Range,0,1,2022
+376,376,Haircare Model 314,Beauty,Haircare,Brand38,1407.0,764.0,45.7,Mid-Range,0,1,2017
+377,377,Smart TV Model 179,Electronics,Smart TV,Brand36,24218.0,15409.0,36.37,Premium,0,1,2017
+378,378,Fitness Equipment Model 673,Sports,Fitness Equipment,Brand49,20143.0,9708.0,51.8,Premium,0,1,2017
+379,379,Headphones Model 794,Electronics,Headphones,Brand23,117743.0,56544.0,51.98,Luxury,0,1,2020
+380,380,Accessories Model 100,Fashion,Accessories,Brand12,4078.0,2300.0,43.6,Mid-Range,0,1,2022
+381,381,Skincare Model 619,Beauty,Skincare,Brand07,2541.0,1367.0,46.2,Mid-Range,0,1,2020
+382,382,Men Clothing Model 805,Fashion,Men Clothing,Brand14,1440.0,816.0,43.33,Mid-Range,0,1,2017
+383,383,Cricket Model 705,Sports,Cricket,Brand36,15559.0,7368.0,52.64,Premium,0,1,2019
+384,384,Outdoor Model 539,Sports,Outdoor,Brand47,29647.0,15610.0,47.35,Luxury,0,1,2017
+385,385,Laptops Model 927,Electronics,Laptops,Brand10,35307.0,16512.0,53.23,Luxury,0,1,2021
+386,386,Headphones Model 880,Electronics,Headphones,Brand14,50175.0,28138.0,43.92,Luxury,0,1,2018
+387,387,Outdoor Model 590,Sports,Outdoor,Brand41,19861.0,12127.0,38.94,Premium,0,1,2019
+388,388,Football Model 822,Sports,Football,Brand47,11082.0,5277.0,52.38,Premium,0,1,2015
+389,389,Outdoor Model 819,Sports,Outdoor,Brand32,20063.0,11824.0,41.07,Premium,0,1,2020
+390,390,Cookware Model 534,Home & Kitchen,Cookware,Brand25,3448.0,2052.0,40.49,Mid-Range,0,1,2016
+391,391,Makeup Model 476,Beauty,Makeup,Brand03,1845.0,1022.0,44.61,Mid-Range,0,0,2017
+392,392,Men Clothing Model 414,Fashion,Men Clothing,Brand24,10738.0,6834.0,36.36,Premium,0,1,2016
+393,393,Cookware Model 400,Home & Kitchen,Cookware,Brand29,18186.0,9869.0,45.73,Premium,0,1,2017
+394,394,Bedding Model 914,Home & Kitchen,Bedding,Brand22,12452.0,7187.0,42.28,Premium,0,1,2018
+395,395,Haircare Model 365,Beauty,Haircare,Brand07,1341.0,716.0,46.61,Mid-Range,0,1,2016
+396,396,Bedding Model 154,Home & Kitchen,Bedding,Brand30,32847.0,16703.0,49.15,Luxury,0,1,2015
+397,397,Accessories Model 565,Fashion,Accessories,Brand25,1745.0,1058.0,39.37,Mid-Range,0,1,2017
+398,398,Furniture Model 715,Home & Kitchen,Furniture,Brand20,24195.0,15656.0,35.29,Premium,0,1,2017
+399,399,Haircare Model 908,Beauty,Haircare,Brand09,3594.0,2240.0,37.67,Mid-Range,0,0,2022
+400,400,Beverages Model 230,Grocery,Beverages,Brand41,216.0,101.0,53.24,Budget,1,1,2015
+401,401,Outdoor Model 931,Sports,Outdoor,Brand20,1668.0,881.0,47.18,Mid-Range,0,1,2017
+402,402,Cookware Model 160,Home & Kitchen,Cookware,Brand06,6361.0,2945.0,53.7,Premium,0,1,2020
+403,403,Skincare Model 164,Beauty,Skincare,Brand09,141.0,90.0,36.17,Budget,0,1,2019
+404,404,Tablets Model 492,Electronics,Tablets,Brand23,61446.0,32621.0,46.91,Luxury,0,1,2016
+405,405,Beverages Model 513,Grocery,Beverages,Brand09,1938.0,836.0,56.86,Mid-Range,1,1,2016
+406,406,Furniture Model 993,Home & Kitchen,Furniture,Brand30,14915.0,9068.0,39.2,Premium,0,1,2019
+407,407,Appliances Model 595,Home & Kitchen,Appliances,Brand26,8457.0,5022.0,40.62,Premium,0,1,2017
+408,408,Fitness Equipment Model 743,Sports,Fitness Equipment,Brand23,3876.0,2405.0,37.95,Mid-Range,0,1,2018
+409,409,Fragrances Model 597,Beauty,Fragrances,Brand25,3821.0,1694.0,55.67,Mid-Range,0,1,2021
+410,410,Headphones Model 795,Electronics,Headphones,Brand21,33849.0,14186.0,58.09,Luxury,0,1,2015
+411,411,Football Model 179,Sports,Football,Brand45,3657.0,1982.0,45.8,Mid-Range,0,1,2019
+412,412,Cricket Model 118,Sports,Cricket,Brand22,17364.0,6955.0,59.95,Premium,0,1,2022
+413,413,Accessories Model 213,Fashion,Accessories,Brand29,3099.0,1580.0,49.02,Mid-Range,0,1,2020
+414,414,Men Clothing Model 216,Fashion,Men Clothing,Brand05,14887.0,6231.0,58.14,Premium,0,1,2021
+415,415,Appliances Model 761,Home & Kitchen,Appliances,Brand33,35368.0,14327.0,59.49,Luxury,0,1,2019
+416,416,Staples Model 306,Grocery,Staples,Brand41,1355.0,847.0,37.49,Mid-Range,1,1,2015
+417,417,Furniture Model 389,Home & Kitchen,Furniture,Brand23,28538.0,13299.0,53.4,Luxury,0,0,2017
+418,418,Dairy Model 953,Grocery,Dairy,Brand39,557.0,346.0,37.88,Mid-Range,1,1,2020
+419,419,Appliances Model 364,Home & Kitchen,Appliances,Brand30,39934.0,23883.0,40.19,Luxury,0,1,2022
+420,420,Haircare Model 254,Beauty,Haircare,Brand33,2693.0,1480.0,45.04,Mid-Range,0,1,2020
+421,421,Makeup Model 146,Beauty,Makeup,Brand01,2049.0,1281.0,37.48,Mid-Range,0,1,2018
+422,422,Furniture Model 892,Home & Kitchen,Furniture,Brand36,29156.0,14765.0,49.36,Luxury,0,1,2017
+423,423,Appliances Model 161,Home & Kitchen,Appliances,Brand26,32282.0,17683.0,45.22,Luxury,0,0,2017
+424,424,Skincare Model 140,Beauty,Skincare,Brand21,2229.0,1337.0,40.02,Mid-Range,0,0,2021
+425,425,Bedding Model 882,Home & Kitchen,Bedding,Brand28,12514.0,6248.0,50.07,Premium,0,1,2019
+426,426,Makeup Model 300,Beauty,Makeup,Brand45,1388.0,834.0,39.91,Mid-Range,0,1,2015
+427,427,Fragrances Model 562,Beauty,Fragrances,Brand17,3184.0,1585.0,50.22,Mid-Range,0,1,2021
+428,428,Appliances Model 338,Home & Kitchen,Appliances,Brand25,11718.0,7233.0,38.27,Premium,0,1,2017
+429,429,Skincare Model 239,Beauty,Skincare,Brand18,1933.0,1116.0,42.27,Mid-Range,0,1,2015
+430,430,Outdoor Model 313,Sports,Outdoor,Brand36,19868.0,11679.0,41.22,Premium,0,1,2015
+431,431,Outdoor Model 451,Sports,Outdoor,Brand36,24615.0,11478.0,53.37,Premium,0,1,2021
+432,432,Outdoor Model 748,Sports,Outdoor,Brand05,9617.0,5961.0,38.02,Premium,0,0,2022
+433,433,Mobile Phones Model 666,Electronics,Mobile Phones,Brand04,74249.0,31561.0,57.49,Luxury,0,1,2022
+434,434,Furniture Model 440,Home & Kitchen,Furniture,Brand05,45206.0,26805.0,40.7,Luxury,0,1,2019
+435,435,Tablets Model 587,Electronics,Tablets,Brand09,18664.0,7866.0,57.85,Premium,0,1,2017
+436,436,Bedding Model 268,Home & Kitchen,Bedding,Brand38,12486.0,7950.0,36.33,Premium,0,1,2016
+437,437,Staples Model 223,Grocery,Staples,Brand07,1763.0,873.0,50.48,Mid-Range,1,0,2017
+438,438,Mobile Phones Model 142,Electronics,Mobile Phones,Brand15,62369.0,25115.0,59.73,Luxury,0,1,2019
+439,439,Mobile Phones Model 224,Electronics,Mobile Phones,Brand03,34091.0,18620.0,45.38,Luxury,0,1,2015
+440,440,Men Clothing Model 844,Fashion,Men Clothing,Brand12,3289.0,1709.0,48.04,Mid-Range,0,1,2017
+441,441,Cookware Model 471,Home & Kitchen,Cookware,Brand23,10968.0,6774.0,38.24,Premium,0,1,2018
+442,442,Fitness Equipment Model 198,Sports,Fitness Equipment,Brand02,29351.0,17212.0,41.36,Luxury,0,1,2015
+443,443,Snacks Model 443,Grocery,Snacks,Brand24,567.0,285.0,49.74,Mid-Range,1,1,2020
+444,444,Makeup Model 749,Beauty,Makeup,Brand09,398.0,223.0,43.97,Budget,0,0,2015
+445,445,Appliances Model 593,Home & Kitchen,Appliances,Brand11,2618.0,1211.0,53.74,Mid-Range,0,1,2020
+446,446,Staples Model 583,Grocery,Staples,Brand21,689.0,287.0,58.35,Mid-Range,1,1,2016
+447,447,Fragrances Model 821,Beauty,Fragrances,Brand35,2516.0,1630.0,35.21,Mid-Range,0,1,2015
+448,448,Men Clothing Model 717,Fashion,Men Clothing,Brand10,12172.0,5942.0,51.18,Premium,0,1,2016
+449,449,Men Clothing Model 713,Fashion,Men Clothing,Brand27,6855.0,3259.0,52.46,Premium,0,1,2017
+450,450,Furniture Model 787,Home & Kitchen,Furniture,Brand15,14888.0,8774.0,41.07,Premium,0,1,2020
+451,451,Cricket Model 423,Sports,Cricket,Brand31,5994.0,3394.0,43.38,Premium,0,1,2022
+452,452,Fitness Equipment Model 957,Sports,Fitness Equipment,Brand04,22163.0,14378.0,35.13,Premium,0,1,2021
+453,453,Haircare Model 114,Beauty,Haircare,Brand10,164.0,71.0,56.71,Budget,0,1,2016
+454,454,Mobile Phones Model 808,Electronics,Mobile Phones,Brand06,110877.0,57973.0,47.71,Luxury,0,0,2021
+455,455,Accessories Model 913,Fashion,Accessories,Brand14,595.0,276.0,53.61,Mid-Range,0,1,2016
+456,456,Snacks Model 302,Grocery,Snacks,Brand18,1069.0,508.0,52.48,Mid-Range,1,1,2018
+457,457,Fitness Equipment Model 164,Sports,Fitness Equipment,Brand27,598.0,272.0,54.52,Mid-Range,0,1,2021
+458,458,Staples Model 555,Grocery,Staples,Brand18,862.0,383.0,55.57,Mid-Range,1,1,2020
+459,459,Beverages Model 441,Grocery,Beverages,Brand38,678.0,402.0,40.71,Mid-Range,1,1,2016
+460,460,Haircare Model 636,Beauty,Haircare,Brand01,1868.0,995.0,46.73,Mid-Range,0,1,2022
+461,461,Appliances Model 683,Home & Kitchen,Appliances,Brand20,22362.0,10321.0,53.85,Premium,0,0,2019
+462,462,Women Clothing Model 773,Fashion,Women Clothing,Brand09,4475.0,2067.0,53.81,Mid-Range,0,1,2022
+463,463,Beverages Model 760,Grocery,Beverages,Brand17,1345.0,605.0,55.02,Mid-Range,1,1,2022
+464,464,Staples Model 705,Grocery,Staples,Brand23,1284.0,796.0,38.01,Mid-Range,1,1,2016
+465,465,Appliances Model 417,Home & Kitchen,Appliances,Brand37,36654.0,16259.0,55.64,Luxury,0,1,2021
+466,466,Furniture Model 508,Home & Kitchen,Furniture,Brand47,44987.0,22736.0,49.46,Luxury,0,1,2019
+467,467,Cookware Model 387,Home & Kitchen,Cookware,Brand21,4385.0,2633.0,39.95,Mid-Range,0,0,2015
+468,468,Snacks Model 381,Grocery,Snacks,Brand24,569.0,281.0,50.62,Mid-Range,1,1,2021
+469,469,Accessories Model 607,Fashion,Accessories,Brand34,4855.0,2952.0,39.2,Mid-Range,0,1,2020
+470,470,Laptops Model 926,Electronics,Laptops,Brand44,72489.0,43912.0,39.42,Luxury,0,1,2017
+471,471,Women Clothing Model 735,Fashion,Women Clothing,Brand44,10662.0,4502.0,57.78,Premium,0,1,2017
+472,472,Football Model 303,Sports,Football,Brand15,29533.0,13676.0,53.69,Luxury,0,1,2017
+473,473,Beverages Model 508,Grocery,Beverages,Brand10,324.0,206.0,36.42,Budget,1,1,2016
+474,474,Haircare Model 732,Beauty,Haircare,Brand47,1966.0,1157.0,41.15,Mid-Range,0,0,2020
+475,475,Appliances Model 536,Home & Kitchen,Appliances,Brand03,9839.0,4604.0,53.21,Premium,0,1,2019
+476,476,Women Clothing Model 864,Fashion,Women Clothing,Brand25,5176.0,2926.0,43.47,Premium,0,1,2022
+477,477,Cricket Model 453,Sports,Cricket,Brand46,11965.0,5561.0,53.52,Premium,0,1,2021
+478,478,Headphones Model 465,Electronics,Headphones,Brand15,92569.0,59467.0,35.76,Luxury,0,0,2018
+479,479,Bedding Model 327,Home & Kitchen,Bedding,Brand17,47538.0,20343.0,57.21,Luxury,0,1,2018
+480,480,Furniture Model 465,Home & Kitchen,Furniture,Brand48,35919.0,15595.0,56.58,Luxury,0,1,2019
+481,481,Fitness Equipment Model 646,Sports,Fitness Equipment,Brand45,9164.0,3960.0,56.79,Premium,0,1,2016
+482,482,Cricket Model 630,Sports,Cricket,Brand36,1925.0,907.0,52.88,Mid-Range,0,1,2022
+483,483,Appliances Model 530,Home & Kitchen,Appliances,Brand48,31457.0,19614.0,37.65,Luxury,0,0,2019
+484,484,Smart TV Model 843,Electronics,Smart TV,Brand36,114359.0,59717.0,47.78,Luxury,0,1,2020
+485,485,Furniture Model 427,Home & Kitchen,Furniture,Brand30,20646.0,11365.0,44.95,Premium,0,1,2022
+486,486,Cookware Model 844,Home & Kitchen,Cookware,Brand04,2567.0,1357.0,47.14,Mid-Range,0,1,2015
+487,487,Cookware Model 410,Home & Kitchen,Cookware,Brand27,3906.0,1893.0,51.54,Mid-Range,0,1,2021
+488,488,Mobile Phones Model 919,Electronics,Mobile Phones,Brand22,64950.0,28234.0,56.53,Luxury,0,1,2022
+489,489,Football Model 195,Sports,Football,Brand33,25738.0,15264.0,40.69,Luxury,0,1,2022
+490,490,Headphones Model 810,Electronics,Headphones,Brand48,18014.0,11162.0,38.04,Premium,0,1,2019
+491,491,Staples Model 946,Grocery,Staples,Brand41,88.0,50.0,43.18,Budget,1,1,2020
+492,492,Haircare Model 604,Beauty,Haircare,Brand34,4893.0,3177.0,35.07,Mid-Range,0,1,2021
+493,493,Laptops Model 614,Electronics,Laptops,Brand09,119131.0,48746.0,59.08,Luxury,0,0,2021
+494,494,Staples Model 839,Grocery,Staples,Brand20,175.0,101.0,42.29,Budget,1,1,2019
+495,495,Furniture Model 507,Home & Kitchen,Furniture,Brand06,34346.0,17200.0,49.92,Luxury,0,1,2015
+496,496,Footwear Model 492,Fashion,Footwear,Brand21,390.0,164.0,57.95,Budget,0,1,2019
+497,497,Football Model 117,Sports,Football,Brand11,27747.0,14324.0,48.38,Luxury,0,1,2018
+498,498,Snacks Model 494,Grocery,Snacks,Brand34,1368.0,749.0,45.25,Mid-Range,1,1,2017
+499,499,Tablets Model 395,Electronics,Tablets,Brand18,48157.0,22489.0,53.3,Luxury,0,1,2017
+500,500,Footwear Model 589,Fashion,Footwear,Brand01,3073.0,1709.0,44.39,Mid-Range,0,1,2017
+501,501,Tablets Model 595,Electronics,Tablets,Brand01,107803.0,59733.0,44.59,Luxury,0,1,2016
+502,502,Skincare Model 639,Beauty,Skincare,Brand19,2956.0,1213.0,58.96,Mid-Range,0,1,2018
+503,503,Skincare Model 634,Beauty,Skincare,Brand09,1193.0,689.0,42.25,Mid-Range,0,1,2015
+504,504,Snacks Model 515,Grocery,Snacks,Brand43,1235.0,717.0,41.94,Mid-Range,1,1,2018
+505,505,Furniture Model 458,Home & Kitchen,Furniture,Brand28,34305.0,14525.0,57.66,Luxury,0,1,2016
+506,506,Tablets Model 242,Electronics,Tablets,Brand43,7930.0,4512.0,43.1,Premium,0,1,2022
+507,507,Laptops Model 700,Electronics,Laptops,Brand42,106108.0,51685.0,51.29,Luxury,0,1,2019
+508,508,Women Clothing Model 265,Fashion,Women Clothing,Brand25,12171.0,7185.0,40.97,Premium,0,1,2020
+509,509,Cricket Model 628,Sports,Cricket,Brand34,2895.0,1450.0,49.91,Mid-Range,0,0,2018
+510,510,Staples Model 898,Grocery,Staples,Brand15,1554.0,666.0,57.14,Mid-Range,1,1,2022
+511,511,Fragrances Model 403,Beauty,Fragrances,Brand27,4473.0,2903.0,35.1,Mid-Range,0,1,2016
+512,512,Appliances Model 790,Home & Kitchen,Appliances,Brand01,42607.0,24805.0,41.78,Luxury,0,1,2020
+513,513,Laptops Model 839,Electronics,Laptops,Brand27,73916.0,37897.0,48.73,Luxury,0,1,2022
+514,514,Bedding Model 501,Home & Kitchen,Bedding,Brand21,40252.0,23088.0,42.64,Luxury,0,1,2019
+515,515,Makeup Model 469,Beauty,Makeup,Brand45,3866.0,1853.0,52.07,Mid-Range,0,1,2022
+516,516,Dairy Model 578,Grocery,Dairy,Brand27,1825.0,898.0,50.79,Mid-Range,1,1,2018
+517,517,Football Model 738,Sports,Football,Brand45,10092.0,5030.0,50.16,Premium,0,1,2018
+518,518,Bedding Model 460,Home & Kitchen,Bedding,Brand48,28221.0,16942.0,39.97,Luxury,0,1,2022
+519,519,Cricket Model 433,Sports,Cricket,Brand33,18051.0,10093.0,44.09,Premium,0,1,2018
+520,520,Haircare Model 646,Beauty,Haircare,Brand27,4144.0,1711.0,58.71,Mid-Range,0,1,2019
+521,521,Skincare Model 435,Beauty,Skincare,Brand30,4411.0,1820.0,58.74,Mid-Range,0,1,2016
+522,522,Dairy Model 108,Grocery,Dairy,Brand44,779.0,371.0,52.37,Mid-Range,1,1,2020
+523,523,Tablets Model 320,Electronics,Tablets,Brand04,94066.0,53953.0,42.64,Luxury,0,1,2018
+524,524,Dairy Model 351,Grocery,Dairy,Brand28,1016.0,502.0,50.59,Mid-Range,1,1,2017
+525,525,Women Clothing Model 247,Fashion,Women Clothing,Brand27,9713.0,6229.0,35.87,Premium,0,1,2017
+526,526,Fitness Equipment Model 210,Sports,Fitness Equipment,Brand17,26444.0,16665.0,36.98,Luxury,0,1,2017
+527,527,Headphones Model 492,Electronics,Headphones,Brand02,18548.0,10778.0,41.89,Premium,0,1,2017
+528,528,Fragrances Model 763,Beauty,Fragrances,Brand14,1030.0,624.0,39.42,Mid-Range,0,1,2022
+529,529,Makeup Model 956,Beauty,Makeup,Brand24,2668.0,1120.0,58.02,Mid-Range,0,1,2018
+530,530,Bedding Model 583,Home & Kitchen,Bedding,Brand49,8408.0,4116.0,51.05,Premium,0,1,2021
+531,531,Fitness Equipment Model 191,Sports,Fitness Equipment,Brand21,21226.0,11148.0,47.48,Premium,0,1,2015
+532,532,Laptops Model 216,Electronics,Laptops,Brand28,110711.0,69790.0,36.96,Luxury,0,1,2021
+533,533,Bedding Model 398,Home & Kitchen,Bedding,Brand50,22002.0,13042.0,40.72,Premium,0,1,2020
+534,534,Footwear Model 643,Fashion,Footwear,Brand35,11733.0,7597.0,35.25,Premium,0,1,2019
+535,535,Appliances Model 668,Home & Kitchen,Appliances,Brand15,40254.0,22645.0,43.74,Luxury,0,1,2017
+536,536,Men Clothing Model 263,Fashion,Men Clothing,Brand13,11065.0,6892.0,37.71,Premium,0,0,2020
+537,537,Staples Model 580,Grocery,Staples,Brand11,1159.0,541.0,53.32,Mid-Range,1,1,2017
+538,538,Staples Model 677,Grocery,Staples,Brand28,1622.0,664.0,59.06,Mid-Range,1,1,2019
+539,539,Laptops Model 626,Electronics,Laptops,Brand45,2822.0,1718.0,39.12,Mid-Range,0,1,2020
+540,540,Beverages Model 995,Grocery,Beverages,Brand28,729.0,302.0,58.57,Mid-Range,1,1,2019
+541,541,Appliances Model 636,Home & Kitchen,Appliances,Brand09,19149.0,8165.0,57.36,Premium,0,1,2021
+542,542,Tablets Model 360,Electronics,Tablets,Brand21,108179.0,60253.0,44.3,Luxury,0,1,2017
+543,543,Haircare Model 959,Beauty,Haircare,Brand17,504.0,297.0,41.07,Mid-Range,0,0,2021
+544,544,Cookware Model 257,Home & Kitchen,Cookware,Brand25,8643.0,3833.0,55.65,Premium,0,1,2021
+545,545,Headphones Model 214,Electronics,Headphones,Brand05,65234.0,26678.0,59.1,Luxury,0,1,2020
+546,546,Cookware Model 295,Home & Kitchen,Cookware,Brand25,27488.0,12351.0,55.07,Luxury,0,1,2019
+547,547,Beverages Model 417,Grocery,Beverages,Brand44,1704.0,857.0,49.71,Mid-Range,1,1,2019
+548,548,Outdoor Model 904,Sports,Outdoor,Brand22,1455.0,616.0,57.66,Mid-Range,0,1,2017
+549,549,Furniture Model 403,Home & Kitchen,Furniture,Brand47,31135.0,17396.0,44.13,Luxury,0,1,2021
+550,550,Headphones Model 300,Electronics,Headphones,Brand28,38775.0,16581.0,57.24,Luxury,0,1,2019
+551,551,Headphones Model 322,Electronics,Headphones,Brand44,94694.0,45760.0,51.68,Luxury,0,1,2015
+552,552,Haircare Model 204,Beauty,Haircare,Brand19,356.0,210.0,41.01,Budget,0,0,2019
+553,553,Mobile Phones Model 768,Electronics,Mobile Phones,Brand05,90031.0,54293.0,39.7,Luxury,0,1,2019
+554,554,Beverages Model 266,Grocery,Beverages,Brand23,1423.0,904.0,36.47,Mid-Range,1,1,2022
+555,555,Outdoor Model 298,Sports,Outdoor,Brand47,19765.0,12532.0,36.59,Premium,0,1,2018
+556,556,Haircare Model 935,Beauty,Haircare,Brand24,2420.0,1557.0,35.66,Mid-Range,0,1,2021
+557,557,Snacks Model 738,Grocery,Snacks,Brand07,1104.0,609.0,44.84,Mid-Range,1,1,2016
+558,558,Accessories Model 111,Fashion,Accessories,Brand18,11984.0,5276.0,55.97,Premium,0,0,2022
+559,559,Cricket Model 304,Sports,Cricket,Brand08,23830.0,12855.0,46.06,Premium,0,1,2019
+560,560,Cricket Model 338,Sports,Cricket,Brand05,28650.0,12569.0,56.13,Luxury,0,0,2021
+561,561,Skincare Model 413,Beauty,Skincare,Brand29,4798.0,2110.0,56.02,Mid-Range,0,1,2019
+562,562,Cookware Model 648,Home & Kitchen,Cookware,Brand13,25490.0,12095.0,52.55,Luxury,0,1,2016
+563,563,Beverages Model 532,Grocery,Beverages,Brand15,607.0,318.0,47.61,Mid-Range,1,1,2020
+564,564,Women Clothing Model 481,Fashion,Women Clothing,Brand38,6425.0,3053.0,52.48,Premium,0,1,2017
+565,565,Staples Model 300,Grocery,Staples,Brand03,325.0,142.0,56.31,Budget,1,1,2019
+566,566,Beverages Model 512,Grocery,Beverages,Brand16,672.0,375.0,44.2,Mid-Range,1,0,2015
+567,567,Haircare Model 184,Beauty,Haircare,Brand27,1775.0,1104.0,37.8,Mid-Range,0,1,2021
+568,568,Tablets Model 287,Electronics,Tablets,Brand19,47141.0,23263.0,50.65,Luxury,0,1,2015
+569,569,Men Clothing Model 430,Fashion,Men Clothing,Brand27,504.0,239.0,52.58,Mid-Range,0,1,2015
+570,570,Beverages Model 467,Grocery,Beverages,Brand22,1930.0,1232.0,36.17,Mid-Range,1,1,2019
+571,571,Mobile Phones Model 503,Electronics,Mobile Phones,Brand25,15313.0,8407.0,45.1,Premium,0,1,2016
+572,572,Makeup Model 665,Beauty,Makeup,Brand03,3659.0,1933.0,47.17,Mid-Range,0,1,2017
+573,573,Tablets Model 554,Electronics,Tablets,Brand28,97386.0,53041.0,45.54,Luxury,0,1,2021
+574,574,Headphones Model 343,Electronics,Headphones,Brand48,81823.0,48449.0,40.79,Luxury,0,1,2017
+575,575,Cricket Model 395,Sports,Cricket,Brand03,28666.0,12746.0,55.54,Luxury,0,1,2015
+576,576,Staples Model 411,Grocery,Staples,Brand05,1906.0,814.0,57.29,Mid-Range,1,1,2020
+577,577,Women Clothing Model 290,Fashion,Women Clothing,Brand01,3952.0,2130.0,46.1,Mid-Range,0,1,2019
+578,578,Football Model 279,Sports,Football,Brand12,20625.0,10960.0,46.86,Premium,0,1,2017
+579,579,Beverages Model 906,Grocery,Beverages,Brand23,207.0,87.0,57.97,Budget,1,1,2021
+580,580,Headphones Model 346,Electronics,Headphones,Brand16,52050.0,29417.0,43.48,Luxury,0,1,2020
+581,581,Fitness Equipment Model 515,Sports,Fitness Equipment,Brand14,13746.0,6949.0,49.45,Premium,0,0,2018
+582,582,Staples Model 652,Grocery,Staples,Brand17,80.0,38.0,52.5,Budget,1,1,2019
+583,583,Cricket Model 986,Sports,Cricket,Brand50,27499.0,16901.0,38.54,Luxury,0,1,2015
+584,584,Skincare Model 480,Beauty,Skincare,Brand26,1969.0,852.0,56.73,Mid-Range,0,1,2021
+585,585,Headphones Model 613,Electronics,Headphones,Brand34,55208.0,28671.0,48.07,Luxury,0,1,2021
+586,586,Makeup Model 101,Beauty,Makeup,Brand18,1561.0,646.0,58.62,Mid-Range,0,1,2015
+587,587,Staples Model 373,Grocery,Staples,Brand19,135.0,57.0,57.78,Budget,1,1,2018
+588,588,Bedding Model 846,Home & Kitchen,Bedding,Brand44,11150.0,5026.0,54.92,Premium,0,1,2018
+589,589,Appliances Model 980,Home & Kitchen,Appliances,Brand02,49109.0,26445.0,46.15,Luxury,0,1,2022
+590,590,Staples Model 970,Grocery,Staples,Brand18,800.0,473.0,40.88,Mid-Range,1,1,2017
+591,591,Football Model 524,Sports,Football,Brand42,19792.0,11296.0,42.93,Premium,0,1,2019
+592,592,Men Clothing Model 510,Fashion,Men Clothing,Brand10,7574.0,3065.0,59.53,Premium,0,1,2016
+593,593,Football Model 345,Sports,Football,Brand35,3129.0,1734.0,44.58,Mid-Range,0,1,2021
+594,594,Women Clothing Model 595,Fashion,Women Clothing,Brand22,7387.0,3730.0,49.51,Premium,0,0,2018
+595,595,Laptops Model 824,Electronics,Laptops,Brand08,70135.0,29801.0,57.51,Luxury,0,1,2021
+596,596,Men Clothing Model 994,Fashion,Men Clothing,Brand08,6761.0,4355.0,35.59,Premium,0,1,2020
+597,597,Football Model 458,Sports,Football,Brand07,15405.0,9583.0,37.79,Premium,0,1,2020
+598,598,Appliances Model 831,Home & Kitchen,Appliances,Brand47,3985.0,2284.0,42.69,Mid-Range,0,0,2018
+599,599,Women Clothing Model 626,Fashion,Women Clothing,Brand29,14606.0,6206.0,57.51,Premium,0,1,2022
+600,600,Tablets Model 425,Electronics,Tablets,Brand20,77058.0,31110.0,59.63,Luxury,0,1,2018
+601,601,Furniture Model 657,Home & Kitchen,Furniture,Brand31,11631.0,6004.0,48.38,Premium,0,1,2022
+602,602,Bedding Model 634,Home & Kitchen,Bedding,Brand28,20585.0,10637.0,48.33,Premium,0,1,2021
+603,603,Cricket Model 340,Sports,Cricket,Brand20,24898.0,14302.0,42.56,Premium,0,1,2017
+604,604,Haircare Model 481,Beauty,Haircare,Brand17,4409.0,2840.0,35.59,Mid-Range,0,1,2019
+605,605,Mobile Phones Model 189,Electronics,Mobile Phones,Brand25,114252.0,58213.0,49.05,Luxury,0,1,2021
+606,606,Women Clothing Model 281,Fashion,Women Clothing,Brand03,321.0,185.0,42.37,Budget,0,1,2017
+607,607,Footwear Model 855,Fashion,Footwear,Brand10,7586.0,3585.0,52.74,Premium,0,1,2019
+608,608,Outdoor Model 605,Sports,Outdoor,Brand06,26937.0,17361.0,35.55,Luxury,0,1,2021
+609,609,Football Model 685,Sports,Football,Brand07,4889.0,2123.0,56.58,Mid-Range,0,1,2020
+610,610,Skincare Model 932,Beauty,Skincare,Brand28,3757.0,1976.0,47.4,Mid-Range,0,1,2015
+611,611,Beverages Model 517,Grocery,Beverages,Brand32,433.0,244.0,43.65,Budget,1,1,2015
+612,612,Women Clothing Model 985,Fashion,Women Clothing,Brand39,4887.0,2720.0,44.34,Mid-Range,0,1,2017
+613,613,Footwear Model 942,Fashion,Footwear,Brand01,12657.0,7239.0,42.81,Premium,0,0,2018
+614,614,Football Model 220,Sports,Football,Brand20,10753.0,6848.0,36.32,Premium,0,1,2018
+615,615,Fitness Equipment Model 296,Sports,Fitness Equipment,Brand32,7450.0,4744.0,36.32,Premium,0,0,2019
+616,616,Appliances Model 181,Home & Kitchen,Appliances,Brand44,14320.0,5795.0,59.53,Premium,0,1,2016
+617,617,Footwear Model 108,Fashion,Footwear,Brand38,2166.0,919.0,57.57,Mid-Range,0,1,2018
+618,618,Cricket Model 743,Sports,Cricket,Brand47,24117.0,11176.0,53.66,Premium,0,0,2017
+619,619,Skincare Model 277,Beauty,Skincare,Brand38,2448.0,1508.0,38.4,Mid-Range,0,1,2022
+620,620,Headphones Model 330,Electronics,Headphones,Brand35,39817.0,20978.0,47.31,Luxury,0,1,2020
+621,621,Beverages Model 553,Grocery,Beverages,Brand44,833.0,495.0,40.58,Mid-Range,1,1,2016
+622,622,Makeup Model 949,Beauty,Makeup,Brand26,3018.0,1688.0,44.07,Mid-Range,0,1,2016
+623,623,Makeup Model 741,Beauty,Makeup,Brand16,3210.0,1580.0,50.78,Mid-Range,0,1,2017
+624,624,Dairy Model 637,Grocery,Dairy,Brand11,1170.0,589.0,49.66,Mid-Range,1,1,2015
+625,625,Accessories Model 266,Fashion,Accessories,Brand06,2352.0,1273.0,45.88,Mid-Range,0,1,2022
+626,626,Cookware Model 358,Home & Kitchen,Cookware,Brand49,4783.0,2251.0,52.94,Mid-Range,0,1,2015
+627,627,Smart TV Model 402,Electronics,Smart TV,Brand04,38073.0,24405.0,35.9,Luxury,0,1,2017
+628,628,Staples Model 880,Grocery,Staples,Brand08,1892.0,886.0,53.17,Mid-Range,1,1,2022
+629,629,Makeup Model 353,Beauty,Makeup,Brand19,1640.0,890.0,45.73,Mid-Range,0,1,2017
+630,630,Outdoor Model 674,Sports,Outdoor,Brand30,23204.0,9872.0,57.46,Premium,0,1,2016
+631,631,Haircare Model 799,Beauty,Haircare,Brand28,3619.0,1483.0,59.02,Mid-Range,0,1,2015
+632,632,Beverages Model 306,Grocery,Beverages,Brand28,1974.0,891.0,54.86,Mid-Range,1,1,2016
+633,633,Staples Model 995,Grocery,Staples,Brand17,1529.0,832.0,45.59,Mid-Range,1,1,2015
+634,634,Outdoor Model 413,Sports,Outdoor,Brand42,28007.0,13706.0,51.06,Luxury,0,1,2021
+635,635,Football Model 610,Sports,Football,Brand23,14956.0,7097.0,52.55,Premium,0,0,2021
+636,636,Dairy Model 924,Grocery,Dairy,Brand33,177.0,89.0,49.72,Budget,1,1,2017
+637,637,Furniture Model 441,Home & Kitchen,Furniture,Brand41,47812.0,25401.0,46.87,Luxury,0,1,2021
+638,638,Beverages Model 955,Grocery,Beverages,Brand27,644.0,260.0,59.63,Mid-Range,1,1,2021
+639,639,Dairy Model 953,Grocery,Dairy,Brand27,1391.0,759.0,45.43,Mid-Range,1,1,2017
+640,640,Fitness Equipment Model 528,Sports,Fitness Equipment,Brand28,11043.0,4955.0,55.13,Premium,0,1,2016
+641,641,Outdoor Model 265,Sports,Outdoor,Brand15,16793.0,6758.0,59.76,Premium,0,0,2018
+642,642,Women Clothing Model 490,Fashion,Women Clothing,Brand14,4301.0,2430.0,43.5,Mid-Range,0,1,2022
+643,643,Cookware Model 808,Home & Kitchen,Cookware,Brand01,11980.0,7165.0,40.19,Premium,0,1,2015
+644,644,Laptops Model 705,Electronics,Laptops,Brand23,109635.0,53204.0,51.47,Luxury,0,1,2020
+645,645,Accessories Model 419,Fashion,Accessories,Brand11,292.0,161.0,44.86,Budget,0,0,2015
+646,646,Tablets Model 815,Electronics,Tablets,Brand17,36689.0,23187.0,36.8,Luxury,0,1,2019
+647,647,Smart TV Model 437,Electronics,Smart TV,Brand25,116431.0,52909.0,54.56,Luxury,0,1,2018
+648,648,Footwear Model 822,Fashion,Footwear,Brand13,2672.0,1725.0,35.44,Mid-Range,0,1,2017
+649,649,Accessories Model 134,Fashion,Accessories,Brand44,14595.0,7831.0,46.34,Premium,0,0,2017
+650,650,Smart TV Model 660,Electronics,Smart TV,Brand33,56458.0,30012.0,46.84,Luxury,0,1,2015
+651,651,Football Model 965,Sports,Football,Brand13,9770.0,3934.0,59.73,Premium,0,0,2022
+652,652,Appliances Model 919,Home & Kitchen,Appliances,Brand21,15826.0,8061.0,49.06,Premium,0,1,2022
+653,653,Cricket Model 712,Sports,Cricket,Brand20,15092.0,7243.0,52.01,Premium,0,1,2018
+654,654,Appliances Model 434,Home & Kitchen,Appliances,Brand08,9559.0,6105.0,36.13,Premium,0,1,2016
+655,655,Football Model 895,Sports,Football,Brand39,23782.0,11843.0,50.2,Premium,0,1,2016
+656,656,Cricket Model 247,Sports,Cricket,Brand10,15952.0,9519.0,40.33,Premium,0,1,2019
+657,657,Fitness Equipment Model 914,Sports,Fitness Equipment,Brand08,23192.0,11708.0,49.52,Premium,0,1,2015
+658,658,Tablets Model 832,Electronics,Tablets,Brand13,45612.0,27965.0,38.69,Luxury,0,1,2021
+659,659,Cricket Model 136,Sports,Cricket,Brand44,29226.0,11951.0,59.11,Luxury,0,1,2019
+660,660,Furniture Model 568,Home & Kitchen,Furniture,Brand38,25045.0,10643.0,57.5,Luxury,0,1,2017
+661,661,Football Model 513,Sports,Football,Brand19,13955.0,7063.0,49.39,Premium,0,1,2020
+662,662,Footwear Model 754,Fashion,Footwear,Brand33,7658.0,3202.0,58.19,Premium,0,1,2018
+663,663,Men Clothing Model 630,Fashion,Men Clothing,Brand05,2660.0,1285.0,51.69,Mid-Range,0,1,2020
+664,664,Mobile Phones Model 644,Electronics,Mobile Phones,Brand47,48648.0,22623.0,53.5,Luxury,0,1,2021
+665,665,Makeup Model 885,Beauty,Makeup,Brand30,2021.0,992.0,50.92,Mid-Range,0,1,2016
+666,666,Fragrances Model 648,Beauty,Fragrances,Brand34,1638.0,928.0,43.35,Mid-Range,0,1,2021
+667,667,Staples Model 640,Grocery,Staples,Brand21,791.0,454.0,42.6,Mid-Range,1,1,2016
+668,668,Smart TV Model 662,Electronics,Smart TV,Brand37,70716.0,42953.0,39.26,Luxury,0,1,2019
+669,669,Cookware Model 593,Home & Kitchen,Cookware,Brand41,36241.0,15619.0,56.9,Luxury,0,1,2020
+670,670,Cookware Model 567,Home & Kitchen,Cookware,Brand49,41742.0,17682.0,57.64,Luxury,0,1,2020
+671,671,Accessories Model 527,Fashion,Accessories,Brand40,2597.0,1109.0,57.3,Mid-Range,0,1,2017
+672,672,Staples Model 420,Grocery,Staples,Brand24,1429.0,825.0,42.27,Mid-Range,1,1,2021
+673,673,Cookware Model 315,Home & Kitchen,Cookware,Brand01,47067.0,19208.0,59.19,Luxury,0,1,2017
+674,674,Staples Model 855,Grocery,Staples,Brand23,834.0,406.0,51.32,Mid-Range,1,1,2021
+675,675,Football Model 629,Sports,Football,Brand48,21732.0,10388.0,52.2,Premium,0,1,2021
+676,676,Football Model 240,Sports,Football,Brand34,19004.0,9484.0,50.09,Premium,0,1,2021
+677,677,Dairy Model 920,Grocery,Dairy,Brand04,1182.0,498.0,57.87,Mid-Range,1,1,2015
+678,678,Furniture Model 154,Home & Kitchen,Furniture,Brand39,2508.0,1315.0,47.57,Mid-Range,0,1,2020
+679,679,Appliances Model 758,Home & Kitchen,Appliances,Brand35,28907.0,18687.0,35.35,Luxury,0,0,2016
+680,680,Dairy Model 249,Grocery,Dairy,Brand36,949.0,391.0,58.8,Mid-Range,1,1,2015
+681,681,Smart TV Model 305,Electronics,Smart TV,Brand02,70676.0,37599.0,46.8,Luxury,0,1,2020
+682,682,Fragrances Model 664,Beauty,Fragrances,Brand39,1997.0,893.0,55.28,Mid-Range,0,0,2022
+683,683,Fitness Equipment Model 883,Sports,Fitness Equipment,Brand38,20935.0,11336.0,45.85,Premium,0,1,2020
+684,684,Beverages Model 688,Grocery,Beverages,Brand31,1500.0,913.0,39.13,Mid-Range,1,1,2017
+685,685,Tablets Model 915,Electronics,Tablets,Brand35,108654.0,70578.0,35.04,Luxury,0,1,2017
+686,686,Fitness Equipment Model 596,Sports,Fitness Equipment,Brand27,9937.0,4897.0,50.72,Premium,0,0,2017
+687,687,Bedding Model 383,Home & Kitchen,Bedding,Brand16,47259.0,27967.0,40.82,Luxury,0,1,2020
+688,688,Snacks Model 725,Grocery,Snacks,Brand50,1272.0,575.0,54.8,Mid-Range,1,1,2022
+689,689,Women Clothing Model 285,Fashion,Women Clothing,Brand05,5626.0,3023.0,46.27,Premium,0,1,2019
+690,690,Appliances Model 394,Home & Kitchen,Appliances,Brand49,18118.0,8408.0,53.59,Premium,0,1,2022
+691,691,Staples Model 108,Grocery,Staples,Brand29,514.0,333.0,35.21,Mid-Range,1,1,2021
+692,692,Mobile Phones Model 608,Electronics,Mobile Phones,Brand48,14785.0,9054.0,38.76,Premium,0,1,2021
+693,693,Appliances Model 777,Home & Kitchen,Appliances,Brand50,48233.0,24708.0,48.77,Luxury,0,1,2019
+694,694,Accessories Model 758,Fashion,Accessories,Brand41,2004.0,971.0,51.55,Mid-Range,0,1,2020
+695,695,Dairy Model 553,Grocery,Dairy,Brand47,1215.0,743.0,38.85,Mid-Range,1,1,2022
+696,696,Bedding Model 370,Home & Kitchen,Bedding,Brand42,14625.0,5960.0,59.25,Premium,0,1,2020
+697,697,Tablets Model 252,Electronics,Tablets,Brand18,29845.0,16451.0,44.88,Luxury,0,1,2021
+698,698,Cookware Model 748,Home & Kitchen,Cookware,Brand10,42833.0,23628.0,44.84,Luxury,0,1,2019
+699,699,Staples Model 209,Grocery,Staples,Brand29,1815.0,743.0,59.06,Mid-Range,1,1,2017
+700,700,Outdoor Model 477,Sports,Outdoor,Brand46,978.0,554.0,43.35,Mid-Range,0,0,2019
+701,701,Snacks Model 447,Grocery,Snacks,Brand12,1084.0,651.0,39.94,Mid-Range,1,1,2019
+702,702,Fitness Equipment Model 269,Sports,Fitness Equipment,Brand21,22547.0,10501.0,53.43,Premium,0,1,2017
+703,703,Makeup Model 126,Beauty,Makeup,Brand08,3644.0,2186.0,40.01,Mid-Range,0,1,2022
+704,704,Women Clothing Model 509,Fashion,Women Clothing,Brand17,6395.0,2817.0,55.95,Premium,0,1,2018
+705,705,Cookware Model 887,Home & Kitchen,Cookware,Brand45,47620.0,24813.0,47.89,Luxury,0,1,2015
+706,706,Cricket Model 723,Sports,Cricket,Brand48,2679.0,1531.0,42.85,Mid-Range,0,0,2017
+707,707,Appliances Model 559,Home & Kitchen,Appliances,Brand20,48627.0,23213.0,52.26,Luxury,0,1,2022
+708,708,Laptops Model 442,Electronics,Laptops,Brand39,89838.0,41582.0,53.71,Luxury,0,1,2016
+709,709,Smart TV Model 110,Electronics,Smart TV,Brand22,71091.0,36273.0,48.98,Luxury,0,1,2020
+710,710,Football Model 550,Sports,Football,Brand08,4655.0,1958.0,57.94,Mid-Range,0,1,2020
+711,711,Haircare Model 789,Beauty,Haircare,Brand13,4363.0,2714.0,37.8,Mid-Range,0,1,2018
+712,712,Footwear Model 568,Fashion,Footwear,Brand03,13049.0,8090.0,38.0,Premium,0,1,2018
+713,713,Appliances Model 903,Home & Kitchen,Appliances,Brand19,32010.0,18167.0,43.25,Luxury,0,0,2019
+714,714,Beverages Model 349,Grocery,Beverages,Brand35,1129.0,608.0,46.15,Mid-Range,1,1,2018
+715,715,Mobile Phones Model 767,Electronics,Mobile Phones,Brand30,18780.0,10380.0,44.73,Premium,0,1,2019
+716,716,Footwear Model 698,Fashion,Footwear,Brand35,6139.0,2895.0,52.84,Premium,0,1,2017
+717,717,Footwear Model 855,Fashion,Footwear,Brand03,1626.0,724.0,55.47,Mid-Range,0,1,2021
+718,718,Appliances Model 842,Home & Kitchen,Appliances,Brand20,24222.0,12124.0,49.95,Premium,0,1,2020
+719,719,Haircare Model 742,Beauty,Haircare,Brand02,3730.0,1604.0,57.0,Mid-Range,0,1,2017
+720,720,Laptops Model 236,Electronics,Laptops,Brand35,20196.0,11021.0,45.43,Premium,0,1,2022
+721,721,Headphones Model 675,Electronics,Headphones,Brand30,50703.0,21164.0,58.26,Luxury,0,1,2020
+722,722,Dairy Model 467,Grocery,Dairy,Brand05,1139.0,732.0,35.73,Mid-Range,1,1,2016
+723,723,Tablets Model 344,Electronics,Tablets,Brand28,103656.0,46149.0,55.48,Luxury,0,1,2020
+724,724,Beverages Model 323,Grocery,Beverages,Brand12,316.0,195.0,38.29,Budget,1,1,2015
+725,725,Snacks Model 358,Grocery,Snacks,Brand28,998.0,400.0,59.92,Mid-Range,1,1,2021
+726,726,Snacks Model 923,Grocery,Snacks,Brand09,1857.0,745.0,59.88,Mid-Range,1,1,2020
+727,727,Haircare Model 732,Beauty,Haircare,Brand11,336.0,203.0,39.58,Budget,0,1,2015
+728,728,Smart TV Model 412,Electronics,Smart TV,Brand01,117492.0,54183.0,53.88,Luxury,0,1,2021
+729,729,Accessories Model 509,Fashion,Accessories,Brand29,2042.0,1168.0,42.8,Mid-Range,0,0,2015
+730,730,Beverages Model 256,Grocery,Beverages,Brand03,1957.0,947.0,51.61,Mid-Range,1,1,2016
+731,731,Skincare Model 448,Beauty,Skincare,Brand29,675.0,321.0,52.44,Mid-Range,0,1,2018
+732,732,Cricket Model 634,Sports,Cricket,Brand07,3439.0,1964.0,42.89,Mid-Range,0,1,2017
+733,733,Beverages Model 990,Grocery,Beverages,Brand05,1879.0,1010.0,46.25,Mid-Range,1,1,2022
+734,734,Appliances Model 835,Home & Kitchen,Appliances,Brand01,437.0,198.0,54.69,Budget,0,1,2017
+735,735,Footwear Model 652,Fashion,Footwear,Brand01,4965.0,3105.0,37.46,Mid-Range,0,1,2020
+736,736,Smart TV Model 870,Electronics,Smart TV,Brand32,42942.0,18692.0,56.47,Luxury,0,1,2022
+737,737,Smart TV Model 321,Electronics,Smart TV,Brand08,105109.0,50590.0,51.87,Luxury,0,1,2017
+738,738,Cricket Model 368,Sports,Cricket,Brand09,29037.0,13551.0,53.33,Luxury,0,1,2018
+739,739,Haircare Model 569,Beauty,Haircare,Brand01,2534.0,1553.0,38.71,Mid-Range,0,0,2019
+740,740,Fitness Equipment Model 422,Sports,Fitness Equipment,Brand07,18689.0,11031.0,40.98,Premium,0,1,2022
+741,741,Headphones Model 891,Electronics,Headphones,Brand18,104417.0,55973.0,46.39,Luxury,0,0,2019
+742,742,Bedding Model 377,Home & Kitchen,Bedding,Brand23,8685.0,4604.0,46.99,Premium,0,1,2015
+743,743,Dairy Model 990,Grocery,Dairy,Brand07,1992.0,1186.0,40.46,Mid-Range,1,1,2015
+744,744,Laptops Model 453,Electronics,Laptops,Brand16,60371.0,31235.0,48.26,Luxury,0,1,2016
+745,745,Men Clothing Model 928,Fashion,Men Clothing,Brand12,14656.0,6499.0,55.66,Premium,0,0,2018
+746,746,Footwear Model 151,Fashion,Footwear,Brand46,13235.0,8463.0,36.06,Premium,0,1,2021
+747,747,Fitness Equipment Model 403,Sports,Fitness Equipment,Brand07,23037.0,11322.0,50.85,Premium,0,1,2017
+748,748,Dairy Model 388,Grocery,Dairy,Brand02,1680.0,1037.0,38.27,Mid-Range,1,1,2021
+749,749,Makeup Model 260,Beauty,Makeup,Brand28,4800.0,2146.0,55.29,Mid-Range,0,1,2020
+750,750,Beverages Model 515,Grocery,Beverages,Brand28,1792.0,924.0,48.44,Mid-Range,1,1,2016
+751,751,Bedding Model 241,Home & Kitchen,Bedding,Brand39,45746.0,26081.0,42.99,Luxury,0,1,2017
+752,752,Football Model 139,Sports,Football,Brand42,20941.0,9204.0,56.05,Premium,0,1,2015
+753,753,Fragrances Model 926,Beauty,Fragrances,Brand36,2866.0,1247.0,56.49,Mid-Range,0,1,2019
+754,754,Appliances Model 938,Home & Kitchen,Appliances,Brand19,11934.0,5275.0,55.8,Premium,0,1,2022
+755,755,Fitness Equipment Model 550,Sports,Fitness Equipment,Brand30,16153.0,10450.0,35.31,Premium,0,1,2020
+756,756,Dairy Model 296,Grocery,Dairy,Brand41,418.0,247.0,40.91,Budget,1,1,2016
+757,757,Mobile Phones Model 816,Electronics,Mobile Phones,Brand29,95449.0,41841.0,56.16,Luxury,0,1,2020
+758,758,Outdoor Model 261,Sports,Outdoor,Brand50,22131.0,13780.0,37.73,Premium,0,1,2021
+759,759,Men Clothing Model 733,Fashion,Men Clothing,Brand08,13698.0,8630.0,37.0,Premium,0,0,2022
+760,760,Cricket Model 956,Sports,Cricket,Brand22,11467.0,5298.0,53.8,Premium,0,1,2017
+761,761,Appliances Model 387,Home & Kitchen,Appliances,Brand06,18514.0,11975.0,35.32,Premium,0,1,2017
+762,762,Skincare Model 867,Beauty,Skincare,Brand41,789.0,500.0,36.63,Mid-Range,0,1,2020
+763,763,Furniture Model 675,Home & Kitchen,Furniture,Brand16,27113.0,17224.0,36.47,Luxury,0,1,2016
+764,764,Outdoor Model 864,Sports,Outdoor,Brand31,5147.0,2385.0,53.66,Premium,0,1,2018
+765,765,Snacks Model 294,Grocery,Snacks,Brand06,782.0,367.0,53.07,Mid-Range,1,1,2022
+766,766,Fragrances Model 476,Beauty,Fragrances,Brand26,4170.0,2309.0,44.63,Mid-Range,0,1,2015
+767,767,Snacks Model 239,Grocery,Snacks,Brand49,249.0,157.0,36.95,Budget,1,1,2022
+768,768,Bedding Model 785,Home & Kitchen,Bedding,Brand10,19281.0,9759.0,49.39,Premium,0,1,2017
+769,769,Bedding Model 256,Home & Kitchen,Bedding,Brand29,15422.0,9868.0,36.01,Premium,0,1,2017
+770,770,Cricket Model 468,Sports,Cricket,Brand46,16094.0,7339.0,54.4,Premium,0,1,2021
+771,771,Outdoor Model 821,Sports,Outdoor,Brand04,13495.0,7318.0,45.77,Premium,0,1,2018
+772,772,Outdoor Model 237,Sports,Outdoor,Brand38,1956.0,873.0,55.37,Mid-Range,0,1,2020
+773,773,Outdoor Model 991,Sports,Outdoor,Brand30,26191.0,10806.0,58.74,Luxury,0,1,2018
+774,774,Tablets Model 989,Electronics,Tablets,Brand39,91266.0,52501.0,42.47,Luxury,0,1,2017
+775,775,Women Clothing Model 983,Fashion,Women Clothing,Brand01,4029.0,2273.0,43.58,Mid-Range,0,1,2020
+776,776,Footwear Model 836,Fashion,Footwear,Brand36,5349.0,2691.0,49.69,Premium,0,1,2016
+777,777,Fitness Equipment Model 745,Sports,Fitness Equipment,Brand19,25061.0,13009.0,48.09,Luxury,0,1,2016
+778,778,Outdoor Model 181,Sports,Outdoor,Brand46,5243.0,2955.0,43.64,Premium,0,1,2019
+779,779,Footwear Model 945,Fashion,Footwear,Brand03,8377.0,3678.0,56.09,Premium,0,1,2022
+780,780,Appliances Model 897,Home & Kitchen,Appliances,Brand05,18158.0,9485.0,47.76,Premium,0,1,2015
+781,781,Tablets Model 743,Electronics,Tablets,Brand18,81832.0,41906.0,48.79,Luxury,0,1,2017
+782,782,Dairy Model 934,Grocery,Dairy,Brand01,894.0,522.0,41.61,Mid-Range,1,1,2022
+783,783,Cookware Model 752,Home & Kitchen,Cookware,Brand27,38379.0,16541.0,56.9,Luxury,0,1,2020
+784,784,Accessories Model 183,Fashion,Accessories,Brand39,11743.0,7008.0,40.32,Premium,0,1,2015
+785,785,Bedding Model 495,Home & Kitchen,Bedding,Brand04,5682.0,2331.0,58.98,Premium,0,1,2016
+786,786,Football Model 147,Sports,Football,Brand11,20949.0,10861.0,48.16,Premium,0,1,2021
+787,787,Outdoor Model 682,Sports,Outdoor,Brand24,14325.0,9302.0,35.06,Premium,0,1,2021
+788,788,Dairy Model 490,Grocery,Dairy,Brand05,1342.0,871.0,35.1,Mid-Range,1,1,2015
+789,789,Fitness Equipment Model 190,Sports,Fitness Equipment,Brand14,3858.0,2442.0,36.7,Mid-Range,0,0,2021
+790,790,Smart TV Model 406,Electronics,Smart TV,Brand42,85530.0,52433.0,38.7,Luxury,0,1,2017
+791,791,Appliances Model 926,Home & Kitchen,Appliances,Brand25,19962.0,12423.0,37.77,Premium,0,1,2017
+792,792,Football Model 405,Sports,Football,Brand10,15859.0,10039.0,36.7,Premium,0,1,2020
+793,793,Staples Model 163,Grocery,Staples,Brand44,462.0,206.0,55.41,Budget,1,1,2018
+794,794,Snacks Model 985,Grocery,Snacks,Brand07,1144.0,595.0,47.99,Mid-Range,1,1,2016
+795,795,Laptops Model 349,Electronics,Laptops,Brand17,65600.0,32928.0,49.8,Luxury,0,1,2022
+796,796,Footwear Model 361,Fashion,Footwear,Brand10,1847.0,1037.0,43.85,Mid-Range,0,1,2020
+797,797,Dairy Model 901,Grocery,Dairy,Brand14,845.0,420.0,50.3,Mid-Range,1,1,2015
+798,798,Makeup Model 590,Beauty,Makeup,Brand43,3227.0,2074.0,35.73,Mid-Range,0,1,2016
+799,799,Cricket Model 731,Sports,Cricket,Brand39,7168.0,4324.0,39.68,Premium,0,1,2018
+800,800,Furniture Model 110,Home & Kitchen,Furniture,Brand11,39523.0,25482.0,35.53,Luxury,0,0,2016
+801,801,Fragrances Model 313,Beauty,Fragrances,Brand03,2178.0,922.0,57.67,Mid-Range,0,1,2017
+802,802,Football Model 118,Sports,Football,Brand21,17677.0,7923.0,55.18,Premium,0,1,2021
+803,803,Men Clothing Model 237,Fashion,Men Clothing,Brand38,4450.0,2784.0,37.44,Mid-Range,0,1,2020
+804,804,Accessories Model 305,Fashion,Accessories,Brand38,9194.0,5924.0,35.57,Premium,0,1,2018
+805,805,Footwear Model 690,Fashion,Footwear,Brand16,8674.0,3503.0,59.61,Premium,0,1,2016
+806,806,Dairy Model 254,Grocery,Dairy,Brand48,337.0,191.0,43.32,Budget,1,1,2021
+807,807,Dairy Model 592,Grocery,Dairy,Brand40,1961.0,848.0,56.76,Mid-Range,1,1,2019
+808,808,Women Clothing Model 661,Fashion,Women Clothing,Brand28,2302.0,1074.0,53.34,Mid-Range,0,1,2018
+809,809,Footwear Model 998,Fashion,Footwear,Brand35,493.0,295.0,40.16,Budget,0,1,2016
+810,810,Fragrances Model 324,Beauty,Fragrances,Brand44,4995.0,2670.0,46.55,Mid-Range,0,1,2016
+811,811,Fitness Equipment Model 151,Sports,Fitness Equipment,Brand32,19100.0,12230.0,35.97,Premium,0,1,2020
+812,812,Furniture Model 109,Home & Kitchen,Furniture,Brand22,24479.0,10732.0,56.16,Premium,0,1,2016
+813,813,Appliances Model 125,Home & Kitchen,Appliances,Brand01,33436.0,19441.0,41.86,Luxury,0,1,2016
+814,814,Tablets Model 690,Electronics,Tablets,Brand30,72091.0,39877.0,44.69,Luxury,0,1,2018
+815,815,Haircare Model 345,Beauty,Haircare,Brand41,3462.0,2010.0,41.94,Mid-Range,0,1,2021
+816,816,Appliances Model 366,Home & Kitchen,Appliances,Brand10,26863.0,11268.0,58.05,Luxury,0,1,2016
+817,817,Tablets Model 200,Electronics,Tablets,Brand48,16548.0,7886.0,52.34,Premium,0,1,2019
+818,818,Football Model 719,Sports,Football,Brand44,18191.0,7920.0,56.46,Premium,0,1,2021
+819,819,Beverages Model 824,Grocery,Beverages,Brand38,1463.0,698.0,52.29,Mid-Range,1,1,2015
+820,820,Mobile Phones Model 321,Electronics,Mobile Phones,Brand12,44707.0,24858.0,44.4,Luxury,0,1,2018
+821,821,Fragrances Model 164,Beauty,Fragrances,Brand39,2378.0,1168.0,50.88,Mid-Range,0,1,2022
+822,822,Outdoor Model 462,Sports,Outdoor,Brand35,22364.0,9054.0,59.52,Premium,0,1,2017
+823,823,Smart TV Model 133,Electronics,Smart TV,Brand25,13702.0,6014.0,56.11,Premium,0,1,2017
+824,824,Cricket Model 608,Sports,Cricket,Brand39,6190.0,2496.0,59.68,Premium,0,1,2021
+825,825,Women Clothing Model 401,Fashion,Women Clothing,Brand28,10132.0,6340.0,37.43,Premium,0,1,2019
+826,826,Fitness Equipment Model 529,Sports,Fitness Equipment,Brand02,22023.0,13492.0,38.74,Premium,0,1,2022
+827,827,Football Model 786,Sports,Football,Brand26,25523.0,11209.0,56.08,Luxury,0,1,2020
+828,828,Cricket Model 215,Sports,Cricket,Brand32,15627.0,7106.0,54.53,Premium,0,1,2020
+829,829,Fitness Equipment Model 809,Sports,Fitness Equipment,Brand47,17443.0,10744.0,38.41,Premium,0,1,2022
+830,830,Bedding Model 827,Home & Kitchen,Bedding,Brand15,41803.0,18159.0,56.56,Luxury,0,1,2015
+831,831,Cookware Model 375,Home & Kitchen,Cookware,Brand16,45218.0,28318.0,37.37,Luxury,0,0,2020
+832,832,Fitness Equipment Model 733,Sports,Fitness Equipment,Brand12,19701.0,11613.0,41.05,Premium,0,1,2021
+833,833,Makeup Model 959,Beauty,Makeup,Brand13,4421.0,2851.0,35.51,Mid-Range,0,1,2020
+834,834,Haircare Model 510,Beauty,Haircare,Brand35,4960.0,2161.0,56.43,Mid-Range,0,1,2018
+835,835,Bedding Model 757,Home & Kitchen,Bedding,Brand40,22383.0,13623.0,39.14,Premium,0,1,2022
+836,836,Headphones Model 805,Electronics,Headphones,Brand40,75432.0,31041.0,58.85,Luxury,0,1,2015
+837,837,Football Model 465,Sports,Football,Brand25,26718.0,11050.0,58.64,Luxury,0,1,2016
+838,838,Laptops Model 154,Electronics,Laptops,Brand10,49176.0,29004.0,41.02,Luxury,0,1,2020
+839,839,Haircare Model 855,Beauty,Haircare,Brand12,136.0,75.0,44.85,Budget,0,1,2021
+840,840,Beverages Model 827,Grocery,Beverages,Brand40,987.0,569.0,42.35,Mid-Range,1,1,2020
+841,841,Fragrances Model 711,Beauty,Fragrances,Brand06,2727.0,1412.0,48.22,Mid-Range,0,1,2021
+842,842,Appliances Model 112,Home & Kitchen,Appliances,Brand40,35780.0,21327.0,40.39,Luxury,0,1,2015
+843,843,Bedding Model 159,Home & Kitchen,Bedding,Brand50,35594.0,16162.0,54.59,Luxury,0,1,2021
+844,844,Bedding Model 525,Home & Kitchen,Bedding,Brand39,12800.0,5424.0,57.63,Premium,0,1,2018
+845,845,Makeup Model 937,Beauty,Makeup,Brand13,1479.0,925.0,37.46,Mid-Range,0,1,2018
+846,846,Smart TV Model 326,Electronics,Smart TV,Brand30,46434.0,29693.0,36.05,Luxury,0,1,2022
+847,847,Fitness Equipment Model 409,Sports,Fitness Equipment,Brand02,9233.0,4273.0,53.72,Premium,0,1,2022
+848,848,Cookware Model 525,Home & Kitchen,Cookware,Brand47,43488.0,17835.0,58.99,Luxury,0,1,2020
+849,849,Furniture Model 981,Home & Kitchen,Furniture,Brand36,46638.0,24200.0,48.11,Luxury,0,1,2015
+850,850,Cricket Model 412,Sports,Cricket,Brand48,17836.0,8522.0,52.22,Premium,0,1,2019
+851,851,Appliances Model 262,Home & Kitchen,Appliances,Brand23,10663.0,6122.0,42.59,Premium,0,1,2017
+852,852,Snacks Model 409,Grocery,Snacks,Brand43,425.0,242.0,43.06,Budget,1,1,2018
+853,853,Cricket Model 893,Sports,Cricket,Brand34,8607.0,4516.0,47.53,Premium,0,1,2020
+854,854,Makeup Model 801,Beauty,Makeup,Brand16,4614.0,1934.0,58.08,Mid-Range,0,1,2022
+855,855,Bedding Model 854,Home & Kitchen,Bedding,Brand28,48872.0,20063.0,58.95,Luxury,0,0,2017
+856,856,Haircare Model 386,Beauty,Haircare,Brand27,2759.0,1302.0,52.81,Mid-Range,0,1,2020
+857,857,Cricket Model 914,Sports,Cricket,Brand46,25287.0,15202.0,39.88,Luxury,0,1,2020
+858,858,Appliances Model 516,Home & Kitchen,Appliances,Brand45,33582.0,21262.0,36.69,Luxury,0,1,2017
+859,859,Cricket Model 931,Sports,Cricket,Brand12,29536.0,18152.0,38.54,Luxury,0,1,2016
+860,860,Footwear Model 443,Fashion,Footwear,Brand02,8393.0,3617.0,56.9,Premium,0,1,2015
+861,861,Cookware Model 550,Home & Kitchen,Cookware,Brand30,36408.0,14623.0,59.84,Luxury,0,1,2017
+862,862,Outdoor Model 275,Sports,Outdoor,Brand26,12435.0,6325.0,49.14,Premium,0,1,2019
+863,863,Footwear Model 127,Fashion,Footwear,Brand02,2195.0,1212.0,44.78,Mid-Range,0,1,2021
+864,864,Haircare Model 662,Beauty,Haircare,Brand24,654.0,278.0,57.49,Mid-Range,0,1,2016
+865,865,Skincare Model 137,Beauty,Skincare,Brand10,2358.0,1156.0,50.98,Mid-Range,0,1,2021
+866,866,Cookware Model 238,Home & Kitchen,Cookware,Brand26,26217.0,12781.0,51.25,Luxury,0,1,2021
+867,867,Appliances Model 704,Home & Kitchen,Appliances,Brand38,14199.0,8652.0,39.07,Premium,0,1,2016
+868,868,Dairy Model 867,Grocery,Dairy,Brand08,1996.0,1055.0,47.14,Mid-Range,1,1,2017
+869,869,Cricket Model 264,Sports,Cricket,Brand21,4192.0,1847.0,55.94,Mid-Range,0,1,2020
+870,870,Snacks Model 727,Grocery,Snacks,Brand21,516.0,246.0,52.33,Mid-Range,1,1,2018
+871,871,Skincare Model 440,Beauty,Skincare,Brand42,615.0,329.0,46.5,Mid-Range,0,0,2019
+872,872,Women Clothing Model 147,Fashion,Women Clothing,Brand16,13490.0,7761.0,42.47,Premium,0,1,2015
+873,873,Laptops Model 414,Electronics,Laptops,Brand15,72845.0,45758.0,37.18,Luxury,0,1,2019
+874,874,Appliances Model 140,Home & Kitchen,Appliances,Brand32,39502.0,23964.0,39.33,Luxury,0,1,2016
+875,875,Cookware Model 489,Home & Kitchen,Cookware,Brand21,15943.0,8468.0,46.89,Premium,0,1,2021
+876,876,Outdoor Model 983,Sports,Outdoor,Brand34,6992.0,4477.0,35.97,Premium,0,1,2022
+877,877,Bedding Model 726,Home & Kitchen,Bedding,Brand17,44209.0,23293.0,47.31,Luxury,0,1,2021
+878,878,Makeup Model 926,Beauty,Makeup,Brand36,661.0,421.0,36.31,Mid-Range,0,1,2016
+879,879,Fitness Equipment Model 773,Sports,Fitness Equipment,Brand13,18434.0,9286.0,49.63,Premium,0,1,2015
+880,880,Headphones Model 788,Electronics,Headphones,Brand33,15018.0,7068.0,52.94,Premium,0,1,2020
+881,881,Furniture Model 252,Home & Kitchen,Furniture,Brand46,26488.0,10670.0,59.72,Luxury,0,1,2015
+882,882,Staples Model 699,Grocery,Staples,Brand15,1489.0,863.0,42.04,Mid-Range,1,1,2015
+883,883,Furniture Model 337,Home & Kitchen,Furniture,Brand20,24630.0,11235.0,54.38,Premium,0,1,2020
+884,884,Fitness Equipment Model 705,Sports,Fitness Equipment,Brand41,17433.0,6977.0,59.98,Premium,0,1,2019
+885,885,Footwear Model 721,Fashion,Footwear,Brand46,9401.0,4610.0,50.96,Premium,0,1,2018
+886,886,Staples Model 255,Grocery,Staples,Brand07,1056.0,512.0,51.52,Mid-Range,1,1,2022
+887,887,Fitness Equipment Model 971,Sports,Fitness Equipment,Brand43,6412.0,3590.0,44.01,Premium,0,1,2021
+888,888,Laptops Model 219,Electronics,Laptops,Brand09,84190.0,53938.0,35.93,Luxury,0,1,2020
+889,889,Footwear Model 744,Fashion,Footwear,Brand48,14192.0,7002.0,50.66,Premium,0,1,2018
+890,890,Bedding Model 726,Home & Kitchen,Bedding,Brand09,32228.0,12913.0,59.93,Luxury,0,0,2020
+891,891,Laptops Model 847,Electronics,Laptops,Brand08,11539.0,6578.0,42.99,Premium,0,1,2019
+892,892,Footwear Model 317,Fashion,Footwear,Brand22,625.0,312.0,50.08,Mid-Range,0,1,2020
+893,893,Furniture Model 829,Home & Kitchen,Furniture,Brand14,15265.0,7424.0,51.37,Premium,0,1,2015
+894,894,Makeup Model 471,Beauty,Makeup,Brand27,2408.0,1003.0,58.35,Mid-Range,0,1,2020
+895,895,Fragrances Model 794,Beauty,Fragrances,Brand24,915.0,394.0,56.94,Mid-Range,0,1,2021
+896,896,Laptops Model 467,Electronics,Laptops,Brand29,22313.0,9291.0,58.36,Premium,0,1,2017
+897,897,Appliances Model 482,Home & Kitchen,Appliances,Brand16,26006.0,12210.0,53.05,Luxury,0,1,2021
+898,898,Haircare Model 688,Beauty,Haircare,Brand37,1304.0,777.0,40.41,Mid-Range,0,1,2022
+899,899,Women Clothing Model 111,Fashion,Women Clothing,Brand28,6872.0,4251.0,38.14,Premium,0,1,2016
+900,900,Fragrances Model 913,Beauty,Fragrances,Brand12,2294.0,949.0,58.63,Mid-Range,0,0,2018
+901,901,Makeup Model 841,Beauty,Makeup,Brand32,4058.0,2595.0,36.05,Mid-Range,0,1,2015
+902,902,Beverages Model 868,Grocery,Beverages,Brand50,428.0,198.0,53.74,Budget,1,0,2022
+903,903,Fragrances Model 268,Beauty,Fragrances,Brand01,3914.0,2246.0,42.62,Mid-Range,0,0,2022
+904,904,Haircare Model 392,Beauty,Haircare,Brand18,3356.0,2104.0,37.31,Mid-Range,0,1,2017
+905,905,Staples Model 292,Grocery,Staples,Brand47,712.0,289.0,59.41,Mid-Range,1,1,2022
+906,906,Appliances Model 188,Home & Kitchen,Appliances,Brand01,28132.0,15907.0,43.46,Luxury,0,1,2019
+907,907,Headphones Model 140,Electronics,Headphones,Brand12,114226.0,71491.0,37.41,Luxury,0,1,2022
+908,908,Cookware Model 559,Home & Kitchen,Cookware,Brand36,13590.0,5465.0,59.79,Premium,0,1,2017
+909,909,Staples Model 948,Grocery,Staples,Brand15,265.0,127.0,52.08,Budget,1,1,2018
+910,910,Bedding Model 512,Home & Kitchen,Bedding,Brand13,30572.0,18295.0,40.16,Luxury,0,1,2020
+911,911,Staples Model 367,Grocery,Staples,Brand36,728.0,370.0,49.18,Mid-Range,1,1,2018
+912,912,Makeup Model 409,Beauty,Makeup,Brand47,1755.0,1088.0,38.01,Mid-Range,0,1,2022
+913,913,Mobile Phones Model 786,Electronics,Mobile Phones,Brand24,55660.0,34572.0,37.89,Luxury,0,1,2019
+914,914,Skincare Model 157,Beauty,Skincare,Brand33,939.0,523.0,44.3,Mid-Range,0,1,2016
+915,915,Cricket Model 581,Sports,Cricket,Brand29,13757.0,7199.0,47.67,Premium,0,1,2016
+916,916,Snacks Model 918,Grocery,Snacks,Brand11,401.0,248.0,38.15,Budget,1,1,2022
+917,917,Skincare Model 217,Beauty,Skincare,Brand47,1444.0,922.0,36.15,Mid-Range,0,1,2015
+918,918,Fragrances Model 488,Beauty,Fragrances,Brand03,607.0,346.0,43.0,Mid-Range,0,1,2018
+919,919,Outdoor Model 694,Sports,Outdoor,Brand46,29223.0,16920.0,42.1,Luxury,0,1,2019
+920,920,Bedding Model 779,Home & Kitchen,Bedding,Brand14,9438.0,5901.0,37.48,Premium,0,1,2016
+921,921,Snacks Model 861,Grocery,Snacks,Brand13,96.0,62.0,35.42,Budget,1,1,2019
+922,922,Tablets Model 510,Electronics,Tablets,Brand17,17638.0,8401.0,52.37,Premium,0,1,2017
+923,923,Footwear Model 624,Fashion,Footwear,Brand12,2038.0,1252.0,38.57,Mid-Range,0,1,2016
+924,924,Beverages Model 888,Grocery,Beverages,Brand45,574.0,358.0,37.63,Mid-Range,1,1,2016
+925,925,Makeup Model 944,Beauty,Makeup,Brand36,1923.0,1243.0,35.36,Mid-Range,0,1,2017
+926,926,Fragrances Model 430,Beauty,Fragrances,Brand05,1410.0,911.0,35.39,Mid-Range,0,1,2020
+927,927,Mobile Phones Model 593,Electronics,Mobile Phones,Brand27,42447.0,21716.0,48.84,Luxury,0,1,2020
+928,928,Appliances Model 836,Home & Kitchen,Appliances,Brand21,12971.0,5670.0,56.29,Premium,0,0,2020
+929,929,Staples Model 795,Grocery,Staples,Brand15,323.0,137.0,57.59,Budget,1,1,2022
+930,930,Makeup Model 234,Beauty,Makeup,Brand49,1114.0,677.0,39.23,Mid-Range,0,1,2016
+931,931,Haircare Model 984,Beauty,Haircare,Brand14,1103.0,541.0,50.95,Mid-Range,0,1,2019
+932,932,Mobile Phones Model 800,Electronics,Mobile Phones,Brand50,93179.0,57930.0,37.83,Luxury,0,1,2022
+933,933,Bedding Model 715,Home & Kitchen,Bedding,Brand24,22737.0,12039.0,47.05,Premium,0,1,2018
+934,934,Men Clothing Model 683,Fashion,Men Clothing,Brand12,6950.0,2823.0,59.38,Premium,0,1,2020
+935,935,Footwear Model 827,Fashion,Footwear,Brand07,9669.0,3878.0,59.89,Premium,0,1,2015
+936,936,Football Model 410,Sports,Football,Brand21,17380.0,9396.0,45.94,Premium,0,1,2022
+937,937,Beverages Model 273,Grocery,Beverages,Brand22,174.0,110.0,36.78,Budget,1,1,2016
+938,938,Staples Model 809,Grocery,Staples,Brand25,516.0,245.0,52.52,Mid-Range,1,1,2019
+939,939,Outdoor Model 288,Sports,Outdoor,Brand50,18149.0,8874.0,51.1,Premium,0,1,2016
+940,940,Cookware Model 191,Home & Kitchen,Cookware,Brand20,44217.0,19716.0,55.41,Luxury,0,1,2017
+941,941,Snacks Model 794,Grocery,Snacks,Brand38,752.0,376.0,50.0,Mid-Range,1,1,2017
+942,942,Haircare Model 185,Beauty,Haircare,Brand39,412.0,264.0,35.92,Budget,0,1,2019
+943,943,Cookware Model 257,Home & Kitchen,Cookware,Brand09,9443.0,3945.0,58.22,Premium,0,1,2016
+944,944,Smart TV Model 197,Electronics,Smart TV,Brand06,60372.0,33653.0,44.26,Luxury,0,1,2016
+945,945,Makeup Model 259,Beauty,Makeup,Brand36,1233.0,765.0,37.96,Mid-Range,0,0,2022
+946,946,Beverages Model 236,Grocery,Beverages,Brand45,1232.0,733.0,40.5,Mid-Range,1,1,2022
+947,947,Cricket Model 236,Sports,Cricket,Brand48,17614.0,9761.0,44.58,Premium,0,1,2022
+948,948,Bedding Model 251,Home & Kitchen,Bedding,Brand31,26719.0,16429.0,38.51,Luxury,0,1,2017
+949,949,Women Clothing Model 925,Fashion,Women Clothing,Brand38,8849.0,4377.0,50.54,Premium,0,1,2015
+950,950,Bedding Model 764,Home & Kitchen,Bedding,Brand23,23377.0,13149.0,43.75,Premium,0,1,2019
+951,951,Furniture Model 376,Home & Kitchen,Furniture,Brand44,11452.0,7198.0,37.15,Premium,0,1,2015
+952,952,Football Model 476,Sports,Football,Brand39,24624.0,10105.0,58.96,Premium,0,1,2020
+953,953,Snacks Model 409,Grocery,Snacks,Brand44,690.0,334.0,51.59,Mid-Range,1,1,2018
+954,954,Fitness Equipment Model 399,Sports,Fitness Equipment,Brand05,9787.0,5641.0,42.36,Premium,0,1,2019
+955,955,Outdoor Model 117,Sports,Outdoor,Brand06,9760.0,5135.0,47.39,Premium,0,1,2016
+956,956,Accessories Model 821,Fashion,Accessories,Brand28,12528.0,5070.0,59.53,Premium,0,1,2016
+957,957,Outdoor Model 356,Sports,Outdoor,Brand19,19066.0,10125.0,46.89,Premium,0,1,2015
+958,958,Beverages Model 222,Grocery,Beverages,Brand18,1210.0,685.0,43.39,Mid-Range,1,1,2021
+959,959,Cricket Model 290,Sports,Cricket,Brand31,7412.0,3315.0,55.28,Premium,0,1,2016
+960,960,Outdoor Model 265,Sports,Outdoor,Brand19,3183.0,1778.0,44.14,Mid-Range,0,0,2015
+961,961,Appliances Model 563,Home & Kitchen,Appliances,Brand23,30787.0,19321.0,37.24,Luxury,0,1,2015
+962,962,Fitness Equipment Model 785,Sports,Fitness Equipment,Brand25,13590.0,6036.0,55.58,Premium,0,1,2018
+963,963,Headphones Model 892,Electronics,Headphones,Brand49,68731.0,32371.0,52.9,Luxury,0,1,2017
+964,964,Fragrances Model 316,Beauty,Fragrances,Brand18,372.0,232.0,37.63,Budget,0,1,2016
+965,965,Headphones Model 394,Electronics,Headphones,Brand07,14844.0,9601.0,35.32,Premium,0,0,2015
+966,966,Dairy Model 988,Grocery,Dairy,Brand40,1846.0,1044.0,43.45,Mid-Range,1,1,2018
+967,967,Fitness Equipment Model 700,Sports,Fitness Equipment,Brand25,2691.0,1636.0,39.2,Mid-Range,0,1,2015
+968,968,Furniture Model 670,Home & Kitchen,Furniture,Brand22,29023.0,12017.0,58.59,Luxury,0,1,2022
+969,969,Haircare Model 468,Beauty,Haircare,Brand38,4105.0,2355.0,42.63,Mid-Range,0,1,2020
+970,970,Smart TV Model 486,Electronics,Smart TV,Brand07,8502.0,4526.0,46.77,Premium,0,1,2019
+971,971,Furniture Model 352,Home & Kitchen,Furniture,Brand06,651.0,336.0,48.39,Mid-Range,0,1,2021
+972,972,Skincare Model 215,Beauty,Skincare,Brand36,2308.0,1346.0,41.68,Mid-Range,0,0,2021
+973,973,Haircare Model 589,Beauty,Haircare,Brand46,4182.0,2275.0,45.6,Mid-Range,0,1,2022
+974,974,Mobile Phones Model 189,Electronics,Mobile Phones,Brand02,7406.0,4607.0,37.79,Premium,0,1,2020
+975,975,Footwear Model 336,Fashion,Footwear,Brand17,10785.0,6624.0,38.58,Premium,0,1,2018
+976,976,Haircare Model 408,Beauty,Haircare,Brand47,1881.0,1182.0,37.16,Mid-Range,0,1,2017
+977,977,Fragrances Model 214,Beauty,Fragrances,Brand44,1023.0,543.0,46.92,Mid-Range,0,1,2021
+978,978,Mobile Phones Model 596,Electronics,Mobile Phones,Brand45,78670.0,37355.0,52.52,Luxury,0,1,2021
+979,979,Outdoor Model 595,Sports,Outdoor,Brand06,19553.0,12503.0,36.06,Premium,0,1,2022
+980,980,Mobile Phones Model 872,Electronics,Mobile Phones,Brand44,33618.0,20023.0,40.44,Luxury,0,1,2021
+981,981,Outdoor Model 983,Sports,Outdoor,Brand14,15980.0,9289.0,41.87,Premium,0,1,2020
+982,982,Dairy Model 456,Grocery,Dairy,Brand33,1576.0,773.0,50.95,Mid-Range,1,0,2018
+983,983,Women Clothing Model 648,Fashion,Women Clothing,Brand30,12250.0,6252.0,48.96,Premium,0,1,2018
+984,984,Football Model 316,Sports,Football,Brand28,22762.0,11951.0,47.5,Premium,0,1,2018
+985,985,Accessories Model 894,Fashion,Accessories,Brand26,13665.0,8836.0,35.34,Premium,0,0,2020
+986,986,Tablets Model 857,Electronics,Tablets,Brand28,7685.0,3250.0,57.71,Premium,0,1,2017
+987,987,Dairy Model 697,Grocery,Dairy,Brand04,1330.0,572.0,56.99,Mid-Range,1,1,2018
+988,988,Staples Model 571,Grocery,Staples,Brand06,1749.0,700.0,59.98,Mid-Range,1,1,2019
+989,989,Cricket Model 891,Sports,Cricket,Brand15,4389.0,2363.0,46.16,Mid-Range,0,1,2017
+990,990,Accessories Model 104,Fashion,Accessories,Brand23,8225.0,5134.0,37.58,Premium,0,1,2016
+991,991,Women Clothing Model 349,Fashion,Women Clothing,Brand15,13252.0,7155.0,46.01,Premium,0,1,2019
+992,992,Laptops Model 669,Electronics,Laptops,Brand32,40497.0,21786.0,46.2,Luxury,0,1,2017
+993,993,Furniture Model 175,Home & Kitchen,Furniture,Brand12,30141.0,12066.0,59.97,Luxury,0,1,2016
+994,994,Beverages Model 477,Grocery,Beverages,Brand17,1277.0,669.0,47.61,Mid-Range,1,1,2020
+995,995,Fragrances Model 842,Beauty,Fragrances,Brand25,4574.0,1850.0,59.55,Mid-Range,0,1,2016
+996,996,Bedding Model 469,Home & Kitchen,Bedding,Brand21,39265.0,21585.0,45.03,Luxury,0,1,2018
+997,997,Cricket Model 869,Sports,Cricket,Brand19,17408.0,8906.0,48.84,Premium,0,1,2016
+998,998,Snacks Model 222,Grocery,Snacks,Brand45,471.0,280.0,40.55,Budget,1,1,2020
+999,999,Outdoor Model 650,Sports,Outdoor,Brand23,29367.0,18570.0,36.77,Luxury,0,1,2017
+1000,1000,Makeup Model 162,Beauty,Makeup,Brand47,4128.0,2517.0,39.03,Mid-Range,0,1,2017

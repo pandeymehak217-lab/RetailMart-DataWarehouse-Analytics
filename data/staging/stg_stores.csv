@@ -1,0 +1,101 @@
+src_store_id,store_name,store_format,city,state,store_tier,area_sqft,opening_date,manager_name,staff_count,monthly_rent_lakh,has_parking,is_active,etl_load_date
+1,RetailMart Pune Supermarket,Supermarket,Pune,Maharashtra,Tier 2,43160,2008-10-15,Aditya Joshi,90,1.56,1,1,2026-05-24
+2,RetailMart Surat Online,Online,Surat,Gujarat,Tier 1,22419,2016-06-27,Rahul Malhotra,74,19.18,1,1,2026-05-24
+3,RetailMart Pune Express,Express,Pune,Maharashtra,Tier 1,40517,2017-06-28,Aditya Verma,83,4.62,1,1,2026-05-24
+4,RetailMart Warangal Hypermarket,Hypermarket,Warangal,Telangana,Tier 1,8881,2019-06-08,Pooja Joshi,21,12.36,0,1,2026-05-24
+5,RetailMart Noida Online,Online,Noida,Delhi,Tier 1,22066,2005-04-23,Ishaan Mehta,190,16.65,0,1,2026-05-24
+6,RetailMart Jaipur Hypermarket,Hypermarket,Jaipur,Rajasthan,Tier 2,19442,2006-05-24,Deepika Malhotra,18,5.42,1,1,2026-05-24
+7,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 1,24278,2015-01-11,Yash Iyer,108,13.8,0,1,2026-05-24
+8,RetailMart Bengaluru Hypermarket,Hypermarket,Bengaluru,Karnataka,Tier 3,43923,2017-06-12,Aarav Nair,185,11.88,1,0,2026-05-24
+9,RetailMart Thiruvananthapuram Hypermarket,Hypermarket,Thiruvananthapuram,Kerala,Tier 1,26354,2006-09-19,Arjun Rao,141,5.94,0,1,2026-05-24
+10,RetailMart Gurgaon Express,Express,Gurgaon,Delhi,Tier 2,23476,2020-04-30,Divya Malhotra,19,9.71,1,1,2026-05-24
+11,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 3,22662,2006-01-01,Ananya Kumar,179,4.06,1,1,2026-05-24
+12,RetailMart Nagpur Supermarket,Supermarket,Nagpur,Maharashtra,Tier 3,16666,2008-06-15,Divya Verma,59,16.07,0,1,2026-05-24
+13,RetailMart Ahmedabad Supermarket,Supermarket,Ahmedabad,Gujarat,Tier 2,44396,2011-07-16,Anjali Shah,81,12.3,0,1,2026-05-24
+14,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,47384,2013-01-17,Karan Sharma,17,12.47,1,1,2026-05-24
+15,RetailMart Madurai Hypermarket,Hypermarket,Madurai,Tamil Nadu,Tier 1,6381,2009-02-15,Divya Iyer,104,1.02,0,1,2026-05-24
+16,RetailMart New Delhi Express,Express,New Delhi,Delhi,Tier 2,35628,2017-01-15,Rajesh Joshi,138,13.31,0,1,2026-05-24
+17,RetailMart Kochi Express,Express,Kochi,Kerala,Tier 3,46975,2011-05-13,Amit Joshi,19,19.18,0,1,2026-05-24
+18,RetailMart Jodhpur Supermarket,Supermarket,Jodhpur,Rajasthan,Tier 2,30094,2016-10-13,Sunita Reddy,37,9.64,0,1,2026-05-24
+19,RetailMart Madurai Online,Online,Madurai,Tamil Nadu,Tier 2,23172,2014-04-15,Priya Iyer,16,17.62,0,1,2026-05-24
+20,RetailMart Mumbai Hypermarket,Hypermarket,Mumbai,Maharashtra,Tier 3,48023,2016-08-12,Arjun Gupta,11,7.33,1,1,2026-05-24
+21,RetailMart Hyderabad Express,Express,Hyderabad,Telangana,Tier 1,15897,2005-03-11,Rajesh Sharma,70,13.74,1,0,2026-05-24
+22,RetailMart Ahmedabad Hypermarket,Hypermarket,Ahmedabad,Gujarat,Tier 3,29691,2008-04-18,Akash Gupta,56,15.5,0,1,2026-05-24
+23,RetailMart Karimnagar Express,Express,Karimnagar,Telangana,Tier 2,30640,2014-02-06,Ishaan Patel,84,19.35,0,1,2026-05-24
+24,RetailMart Surat Online,Online,Surat,Gujarat,Tier 1,33966,2005-03-18,Aditi Reddy,36,7.94,1,1,2026-05-24
+25,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 2,37642,2005-09-11,Karan Iyer,190,17.42,0,1,2026-05-24
+26,RetailMart Kozhikode Hypermarket,Hypermarket,Kozhikode,Kerala,Tier 3,18907,2005-01-11,Divya Joshi,167,9.26,0,1,2026-05-24
+27,RetailMart Warangal Online,Online,Warangal,Telangana,Tier 3,2893,2015-03-20,Aditya Verma,185,19.2,0,1,2026-05-24
+28,RetailMart Madurai Hypermarket,Hypermarket,Madurai,Tamil Nadu,Tier 1,46517,2009-06-29,Amit Gupta,198,10.26,0,1,2026-05-24
+29,RetailMart Jaipur Online,Online,Jaipur,Rajasthan,Tier 2,41471,2016-08-12,Rahul Sharma,131,5.29,0,1,2026-05-24
+30,RetailMart Coimbatore Supermarket,Supermarket,Coimbatore,Tamil Nadu,Tier 1,14458,2007-07-06,Meera Sharma,125,19.72,0,1,2026-05-24
+31,RetailMart Warangal Express,Express,Warangal,Telangana,Tier 2,41957,2020-08-01,Vikram Reddy,49,8.65,0,1,2026-05-24
+32,RetailMart Noida Hypermarket,Hypermarket,Noida,Delhi,Tier 3,33045,2018-03-14,Rajesh Singh,100,18.79,0,1,2026-05-24
+33,RetailMart Nagpur Online,Online,Nagpur,Maharashtra,Tier 3,25789,2012-01-25,Kavya Reddy,40,0.51,1,1,2026-05-24
+34,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,34691,2019-09-05,Ananya Malhotra,189,9.86,0,1,2026-05-24
+35,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 2,47753,2009-10-12,Divya Kumar,186,14.64,0,1,2026-05-24
+36,RetailMart Bengaluru Online,Online,Bengaluru,Karnataka,Tier 2,13139,2011-10-02,Isha Shah,54,3.24,0,1,2026-05-24
+37,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 1,14802,2020-05-27,Rajesh Nair,94,5.74,0,1,2026-05-24
+38,RetailMart Thiruvananthapuram Supermarket,Supermarket,Thiruvananthapuram,Kerala,Tier 3,34370,2010-12-23,Aditya Singh,157,16.15,1,1,2026-05-24
+39,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 2,35220,2015-02-06,Ishaan Rao,34,8.08,1,1,2026-05-24
+40,RetailMart Pune Online,Online,Pune,Maharashtra,Tier 2,38283,2020-11-23,Rajesh Gupta,182,8.75,1,1,2026-05-24
+41,RetailMart New Delhi Supermarket,Supermarket,New Delhi,Delhi,Tier 3,23057,2006-04-04,Aditya Reddy,178,4.4,1,1,2026-05-24
+42,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 1,39288,2016-09-08,Shreya Joshi,99,5.23,0,1,2026-05-24
+43,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 2,14053,2009-04-26,Akash Gupta,18,1.29,1,1,2026-05-24
+44,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 1,26774,2013-07-08,Ishaan Verma,62,3.31,1,1,2026-05-24
+45,RetailMart Noida Supermarket,Supermarket,Noida,Delhi,Tier 1,15832,2009-02-20,Meera Mehta,174,14.09,1,1,2026-05-24
+46,RetailMart Lucknow Supermarket,Supermarket,Lucknow,Uttar Pradesh,Tier 2,19503,2017-06-14,Rajesh Iyer,83,8.1,0,1,2026-05-24
+47,RetailMart Lucknow Express,Express,Lucknow,Uttar Pradesh,Tier 2,35637,2018-12-26,Sanjay Mehta,97,1.35,1,1,2026-05-24
+48,RetailMart Kozhikode Hypermarket,Hypermarket,Kozhikode,Kerala,Tier 1,5862,2017-07-14,Isha Shah,156,8.72,0,1,2026-05-24
+49,RetailMart Pune Supermarket,Supermarket,Pune,Maharashtra,Tier 3,21499,2013-01-30,Deepika Singh,91,5.73,0,1,2026-05-24
+50,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 1,48526,2006-11-25,Ishaan Joshi,70,5.21,0,1,2026-05-24
+51,RetailMart Jaipur Online,Online,Jaipur,Rajasthan,Tier 1,16302,2005-07-24,Ananya Mehta,68,1.85,0,1,2026-05-24
+52,RetailMart Ahmedabad Online,Online,Ahmedabad,Gujarat,Tier 2,33211,2009-05-05,Ananya Patel,103,13.27,0,1,2026-05-24
+53,RetailMart Jodhpur Supermarket,Supermarket,Jodhpur,Rajasthan,Tier 1,43726,2018-03-17,Isha Malhotra,96,10.92,0,1,2026-05-24
+54,RetailMart Surat Supermarket,Supermarket,Surat,Gujarat,Tier 2,5008,2012-02-18,Tanvi Reddy,75,14.08,1,1,2026-05-24
+55,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 1,17384,2015-03-06,Amit Shah,191,12.71,0,1,2026-05-24
+56,RetailMart Jodhpur Express,Express,Jodhpur,Rajasthan,Tier 3,47547,2009-07-08,Rohit Sharma,67,19.99,0,1,2026-05-24
+57,RetailMart Udaipur Express,Express,Udaipur,Rajasthan,Tier 3,7853,2021-07-04,Ananya Reddy,91,10.83,0,1,2026-05-24
+58,RetailMart Jaipur Hypermarket,Hypermarket,Jaipur,Rajasthan,Tier 3,14794,2006-12-11,Divya Rao,184,17.73,1,1,2026-05-24
+59,RetailMart Lucknow Hypermarket,Hypermarket,Lucknow,Uttar Pradesh,Tier 3,4749,2019-01-10,Sunita Sharma,114,16.95,1,1,2026-05-24
+60,RetailMart Kanpur Supermarket,Supermarket,Kanpur,Uttar Pradesh,Tier 2,43144,2018-11-07,Arjun Kumar,14,6.94,1,1,2026-05-24
+61,RetailMart Nagpur Hypermarket,Hypermarket,Nagpur,Maharashtra,Tier 1,36807,2010-04-18,Aarav Singh,25,3.04,1,1,2026-05-24
+62,RetailMart Howrah Online,Online,Howrah,West Bengal,Tier 2,34030,2012-06-26,Aditi Patel,156,12.67,0,1,2026-05-24
+63,RetailMart Thiruvananthapuram Online,Online,Thiruvananthapuram,Kerala,Tier 2,18358,2012-11-10,Pooja Kumar,164,7.94,1,1,2026-05-24
+64,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 2,3642,2010-06-24,Riya Patel,86,7.09,0,1,2026-05-24
+65,RetailMart Pune Online,Online,Pune,Maharashtra,Tier 1,38856,2016-11-14,Vikram Shah,83,17.83,0,1,2026-05-24
+66,RetailMart Kolkata Hypermarket,Hypermarket,Kolkata,West Bengal,Tier 2,11591,2016-07-06,Rahul Gupta,100,3.48,0,1,2026-05-24
+67,RetailMart Kanpur Hypermarket,Hypermarket,Kanpur,Uttar Pradesh,Tier 2,6643,2015-05-24,Rahul Verma,149,5.17,1,1,2026-05-24
+68,RetailMart Ahmedabad Express,Express,Ahmedabad,Gujarat,Tier 1,41039,2006-01-31,Rajesh Shah,89,3.07,0,1,2026-05-24
+69,RetailMart Thiruvananthapuram Express,Express,Thiruvananthapuram,Kerala,Tier 1,37540,2015-06-26,Deepika Rao,109,1.69,0,1,2026-05-24
+70,RetailMart Mumbai Supermarket,Supermarket,Mumbai,Maharashtra,Tier 2,18283,2013-01-09,Deepika Rao,157,17.37,0,1,2026-05-24
+71,RetailMart Bengaluru Hypermarket,Hypermarket,Bengaluru,Karnataka,Tier 3,5357,2006-08-21,Ananya Nair,164,5.25,0,1,2026-05-24
+72,RetailMart Kozhikode Supermarket,Supermarket,Kozhikode,Kerala,Tier 2,9152,2018-10-10,Sunita Rao,183,13.86,1,1,2026-05-24
+73,RetailMart Hyderabad Express,Express,Hyderabad,Telangana,Tier 2,42393,2018-12-23,Yash Patel,189,17.59,1,1,2026-05-24
+74,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 3,20192,2012-06-16,Rohit Singh,144,1.0,1,1,2026-05-24
+75,RetailMart Coimbatore Express,Express,Coimbatore,Tamil Nadu,Tier 1,22909,2005-03-30,Amit Gupta,33,15.95,1,1,2026-05-24
+76,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 3,9277,2005-12-17,Kavya Gupta,165,1.73,1,1,2026-05-24
+77,RetailMart Ahmedabad Supermarket,Supermarket,Ahmedabad,Gujarat,Tier 2,12229,2007-04-26,Karan Reddy,141,0.61,0,1,2026-05-24
+78,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 2,31579,2019-12-05,Rajesh Patel,73,13.75,0,1,2026-05-24
+79,RetailMart Coimbatore Online,Online,Coimbatore,Tamil Nadu,Tier 1,9496,2013-09-15,Sanjay Verma,60,7.24,0,1,2026-05-24
+80,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 1,7500,2013-02-02,Rajesh Nair,135,10.66,0,1,2026-05-24
+81,RetailMart Warangal Hypermarket,Hypermarket,Warangal,Telangana,Tier 3,25735,2006-11-27,Tanvi Patel,74,14.81,0,1,2026-05-24
+82,RetailMart Vadodara Hypermarket,Hypermarket,Vadodara,Gujarat,Tier 2,20983,2013-09-14,Amit Patel,101,15.96,1,1,2026-05-24
+83,RetailMart Mumbai Supermarket,Supermarket,Mumbai,Maharashtra,Tier 1,1053,2007-01-10,Divya Nair,118,1.9,1,1,2026-05-24
+84,RetailMart Coimbatore Hypermarket,Hypermarket,Coimbatore,Tamil Nadu,Tier 1,11764,2007-10-25,Ananya Verma,111,18.99,1,1,2026-05-24
+85,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 2,17065,2021-05-25,Ananya Joshi,117,4.31,1,1,2026-05-24
+86,RetailMart Agra Online,Online,Agra,Uttar Pradesh,Tier 3,25551,2015-09-02,Rajesh Malhotra,197,10.2,0,1,2026-05-24
+87,RetailMart Gurgaon Online,Online,Gurgaon,Delhi,Tier 3,37989,2016-01-02,Rahul Verma,165,18.51,1,1,2026-05-24
+88,RetailMart Surat Hypermarket,Hypermarket,Surat,Gujarat,Tier 3,12148,2013-02-26,Deepika Sharma,26,9.22,0,1,2026-05-24
+89,RetailMart Mysuru Hypermarket,Hypermarket,Mysuru,Karnataka,Tier 3,6678,2007-04-16,Aditya Mehta,132,13.26,1,1,2026-05-24
+90,RetailMart Madurai Express,Express,Madurai,Tamil Nadu,Tier 1,29422,2013-08-08,Varun Verma,89,14.6,1,1,2026-05-24
+91,RetailMart Lucknow Online,Online,Lucknow,Uttar Pradesh,Tier 3,37463,2017-03-22,Priya Patel,147,16.21,0,1,2026-05-24
+92,RetailMart Udaipur Express,Express,Udaipur,Rajasthan,Tier 2,40051,2017-03-31,Priya Verma,89,1.76,0,1,2026-05-24
+93,RetailMart Chennai Online,Online,Chennai,Tamil Nadu,Tier 3,35768,2010-02-25,Ananya Gupta,101,9.73,1,0,2026-05-24
+94,RetailMart Chennai Online,Online,Chennai,Tamil Nadu,Tier 3,2600,2011-02-12,Sunita Rao,166,11.86,1,1,2026-05-24
+95,RetailMart Mysuru Online,Online,Mysuru,Karnataka,Tier 1,44610,2018-04-06,Vikram Patel,183,12.61,1,1,2026-05-24
+96,RetailMart Lucknow Hypermarket,Hypermarket,Lucknow,Uttar Pradesh,Tier 2,29206,2006-07-08,Rajesh Gupta,197,9.39,0,1,2026-05-24
+97,RetailMart Kochi Hypermarket,Hypermarket,Kochi,Kerala,Tier 3,7263,2009-11-11,Kavya Gupta,16,15.03,0,1,2026-05-24
+98,RetailMart Agra Supermarket,Supermarket,Agra,Uttar Pradesh,Tier 2,20510,2020-11-02,Arjun Iyer,63,4.82,1,1,2026-05-24
+99,RetailMart Pune Hypermarket,Hypermarket,Pune,Maharashtra,Tier 1,21941,2011-05-31,Deepika Malhotra,22,0.6,0,1,2026-05-24
+100,RetailMart Jaipur Supermarket,Supermarket,Jaipur,Rajasthan,Tier 2,6920,2005-12-29,Rohit Verma,131,3.22,0,1,2026-05-24
